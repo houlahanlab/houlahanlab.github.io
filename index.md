@@ -1,8 +1,7 @@
 ---
 ---
 
-# houlahanlabDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
-
+# The Houlahan lab integrates large-scale, diverse multi-omic data with statistical and machine learning models to uncover the impact of inherited DNA variants on tumour evolution. 
 
 
 {% include section.html %}
@@ -11,7 +10,7 @@
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The molecular profiles of tumours vary from individual to individual which makes effectively treating cancer challenging. The Houlahan Lab integrates state-of-the-art computational tools with large-scale tumour multi-omic data to uncover the impact of inherited DNA variants on cancer predisposition and progression. Inherited variants that modulate tumourigenesis may serve as powerful blood-based biomarkers for improved cancer screening and prognosis.
 
 {%
   include button.html
@@ -26,13 +25,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/science2.jpg"
   link="research"
   title="Our Research"
   text=text
 %}
 
-{% capture text %}
+<!-- {% capture text %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
@@ -55,11 +54,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   flip=true
   style="bare"
   text=text
-%}
+%} -->
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are highly-motivated, interdiscplinary scientists that sit at the intersection of cancer biology, computer science and machine learning.
 
 {%
   include button.html
@@ -74,7 +73,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/join_us.jpg"
   link="team"
   title="Our Team"
   text=text

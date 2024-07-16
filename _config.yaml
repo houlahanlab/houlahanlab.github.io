@@ -1,19 +1,17 @@
 # site properties and page defaults
-title: houlahanlabDESCRIPTION=An engaging 1-3 sentence description of your lab.
-subtitle: 
-description: 
+title: Houlahan Lab
+subtitle: Department of Biochemistry and Biomedical Sciences & Centre for Discovery in Cancer Research, McMaster University
+description: The Houlahan lab integrates large-scale, diverse tumour multi-omic data with statistical and machine learning models to uncover signal of germline-mediated selection pressures on the tumour phenotype. 
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@houlahanlabDESCRIPTION=An engaging 1-3 sentence description of your lab..com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: houlahanlabDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  twitter: houlahanlabDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  youtube: houlahanlabDESCRIPTION=An engaging 1-3 sentence description of your lab.
+  email: houlahke@mcmaster.ca
+  orcid: 0000-0002-2273-2099
+  google-scholar: zzWeM_8AAAAJ&hl
+  github: houlahanlab
 
 ### jekyll settings
 

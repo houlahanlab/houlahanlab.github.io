@@ -1,247 +1,423 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1126/science.adh8697
+  title: Germline-mediated immunoediting sculpts breast cancer subtypes and metastatic
+    proclivity
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
-  authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
-  authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
-  authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
+  - Kathleen E. Houlahan
+  - Aziz Khan
+  - Noah F. Greenwald
+  - Cristina Sotomayor Vivas
+  - Robert B. West
+  - Michael Angelo
+  - Christina Curtis
+  publisher: Science
+  date: '2024-05-31'
+  link: https://doi.org/gt3wh4
+  orcid: 0000-0002-2273-2099
   plugin: sources.py
   file: sources.yaml
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
+  image: https://www.science.org/cms/10.1126/science.adh8697/asset/f88a067e-6fb6-49db-88d1-c022946f7fa2/assets/images/large/science.adh8697-fa.jpg
+- id: pmid:37258665
+  title: Deterministic evolution and stringent selection during preneoplasia.
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  - Kasper Karlsson
+  - Moritz J Przybilla
+  - Eran Kotler
+  - Aziz Khan
+  - Hang Xu
+  - Kremena Karagyozova
+  - Alexandra Sockell
+  - Wing H Wong
+  - Katherine Liu
+  - Amanda Mah
+  - Yuan-Hung Lo
+  - Bingxin Lu
+  - Kathleen E Houlahan
+  - Zhicheng Ma
+  - Carlos J Suarez
+  - Chris P Barnes
+  - Calvin J Kuo
+  - Christina Curtis
+  publisher: Nature
+  date: '2023-05-31'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37258665
+  orcid: 0000-0002-2273-2099
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1093/jnci/djad001
+  title: A polygenic two-hit hypothesis for prostate cancer
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Kathleen E Houlahan
+  - Julie Livingstone
+  - Natalie S Fox
+  - Natalie Kurganovs
+  - Helen Zhu
+  - Jocelyn Sietsma Penington
+  - Chol-Hee Jung
+  - Takafumi N Yamaguchi
+  - Lawrence E Heisler
+  - Richard Jovelin
+  - Anthony J Costello
+  - Bernard J Pope
+  - Amar U Kishan
+  - Niall M Corcoran
+  - Robert G Bristow
+  - Sebastian M Waszak
+  - Joachim Weischenfeldt
+  - Housheng H He
+  - Rayjean J Hung
+  - Christopher M Hovens
+  - Paul C Boutros
+  publisher: 'JNCI: Journal of the National Cancer Institute'
+  date: '2023-01-05'
+  link: https://doi.org/gtdwx4
+  orcid: 0000-0002-2273-2099
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  type: paper
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jnci/115/4/10.1093_jnci_djad001/1/m_djad001f1.jpeg?Expires=1723579884&Signature=EVpMm1m5V54KII3wZvf0p4EsYvOOUpcbkhyiE-b5zrhY5J7NPodKzUZaNsylGQdewq5mc-Mrt6SSqiFXsfmErxTBx8yBmiJTmebj4uPPwHO17yDRjj-RY7-jF1qFJmv0ZYVLG8xiB3XF1T-z0aIotb~BDLr-8FVOHwWwScS45~ZXb~Jv~91~qYRZMcOYcWIR17gqYQYhGztXq24ZCHKcx3mJcCDIEee2oB9myspuvzx4z7ICd~eOtywAKCJN-PGuhwk8azM9zIEVXOU-Ze7VsZRra6jZgQ5Gq62MQ9KFfZs8XQmS4ERUoLFKGYKc0ysL36aCPgUeB2W~Y-1CR53r-A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+- id: doi:10.1158/2159-8290.CD-22-0027
+  title: Prostate Cancer Transcriptomic Regulation by the Interplay of Germline Risk
+    Alleles, Somatic Mutations, and 3D Genomic Architecture
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Jiapei Yuan
+  - Kathleen E. Houlahan
+  - Susmita G. Ramanand
+  - Sora Lee
+  - GuemHee Baek
+  - Yang Yang
+  - Yong Chen
+  - Douglas W. Strand
+  - Michael Q. Zhang
+  - Paul C. Boutros
+  - Ram S. Mani
+  publisher: Cancer Discovery
+  date: '2022-09-15'
+  link: https://doi.org/grjx76
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:36400020
+  title: 'Molecular classification and biomarkers of clinical outcome in breast ductal
+    carcinoma in situ: Analysis of TBCRC 038 and RAHBT cohorts.'
+  authors:
+  - Siri H Strand
+  - "Bel\xE9n Rivero-Guti\xE9rrez"
+  - Kathleen E Houlahan
+  - Jose A Seoane
+  - Lorraine M King
+  - Tyler Risom
+  - Lunden A Simpson
+  - Sujay Vennam
+  - Aziz Khan
+  - Luis Cisneros
+  - Timothy Hardman
+  - Bryan Harmon
+  - Fergus Couch
+  - Kristalyn Gallagher
+  - Mark Kilgore
+  - Shi Wei
+  - Angela DeMichele
+  - Tari King
+  - Priscilla F McAuliffe
+  - Julie Nangia
+  - Joanna Lee
+  - Jennifer Tseng
+  - Anna Maria Storniolo
+  - Alastair M Thompson
+  - Gaorav P Gupta
+  - Robyn Burns
+  - Deborah J Veis
+  - Katherine DeSchryver
+  - Chunfang Zhu
+  - Magdalena Matusiak
+  - Jason Wang
+  - Shirley X Zhu
+  - Jen Tappenden
+  - Daisy Yi Ding
+  - Dadong Zhang
+  - Jingqin Luo
+  - Shu Jiang
+  - Sushama Varma
+  - Lauren Anderson
+  - Cody Straub
+  - Sucheta Srivastava
+  - Christina Curtis
+  - Rob Tibshirani
+  - Robert Michael Angelo
+  - Allison Hall
+  - Kouros Owzar
+  - Kornelia Polyak
+  - Carlo Maley
+  - Jeffrey R Marks
+  - Graham A Colditz
+  - E Shelley Hwang
+  - Robert B West
+  publisher: Cancer cell
+  date: '2022-11-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36400020
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:36253572
+  title: Targeted profiling of human extrachromosomal DNA by CRISPR-CATCH.
+  authors:
+  - King L Hung
+  - Jens Luebeck
+  - Siavash R Dehkordi
+  - "Caterina I Col\xF3n"
+  - Rui Li
+  - Ivy Tsz-Lo Wong
+  - Ceyda Coruh
+  - Prashanthi Dharanipragada
+  - Shirley H Lomeli
+  - Natasha E Weiser
+  - Gatien Moriceau
+  - Xiao Zhang
+  - Chris Bailey
+  - Kathleen E Houlahan
+  - Wenting Yang
+  - "Roc\xEDo Chamorro Gonz\xE1lez"
+  - Charles Swanton
+  - Christina Curtis
+  - Mariam Jamal-Hanjani
+  - Anton G Henssen
+  - Julie A Law
+  - William J Greenleaf
+  - Roger S Lo
+  - Paul S Mischel
+  - Vineet Bafna
+  - Howard Y Chang
+  publisher: Nature genetics
+  date: '2022-10-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36253572
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:35760778
+  title: Combinatorial immunotherapies overcome MYC-driven immune evasion in triple
+    negative breast cancer.
+  authors:
+  - Joyce V Lee
+  - Filomena Housley
+  - Christina Yau
+  - Rachel Nakagawa
+  - Juliane Winkler
+  - Johanna M Anttila
+  - Pauliina M Munne
+  - Mariel Savelius
+  - Kathleen E Houlahan
+  - Daniel Van de Mark
+  - Golzar Hemmati
+  - Grace A Hernandez
+  - Yibing Zhang
+  - Susan Samson
+  - Carole Baas
+  - Marleen Kok
+  - Laura J Esserman
+  - Laura J van 't Veer
+  - Hope S Rugo
+  - Christina Curtis
+  - "Juha Klefstr\xF6m"
+  - Mehrdad Matloubian
+  - Andrei Goga
+  publisher: Nature communications
+  date: '2022-06-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35760778
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1172/JCI134260
+  title: "The landscape of RNA polymerase II\u2013associated chromatin interactions\
+    \ in prostate cancer"
+  authors:
+  - Susmita G. Ramanand
+  - Yong Chen
+  - Jiapei Yuan
+  - Kelly Daescu
+  - Maryou B.K. Lambros
+  - Kathleen E. Houlahan
+  - Suzanne Carreira
+  - Wei Yuan
+  - GuemHee Baek
+  - Adam Sharp
+  - Alec Paschalis
+  - Mohammed Kanchwala
+  - Yunpeng Gao
+  - Adam Aslam
+  - Nida Safdar
+  - Xiaowei Zhan
+  - Ganesh V. Raj
+  - Chao Xing
+  - Paul C. Boutros
+  - Johann de Bono
+  - Michael Q. Zhang
+  - Ram S. Mani
+  publisher: Journal of Clinical Investigation
+  date: '2020-06-22'
+  link: https://doi.org/gt3wh7
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41591-019-0579-z
+  title: Genome-wide germline correlates of the epigenetic landscape of prostate cancer
+  authors:
+  - Kathleen E. Houlahan
+  - Yu-Jia Shiah
+  - Alexander Gusev
+  - Jiapei Yuan
+  - Musaddeque Ahmed
+  - Anamay Shetty
+  - Susmita G. Ramanand
+  - Cindy Q. Yao
+  - Connor Bell
+  - "Edward O\u2019Connor"
+  - Vincent Huang
+  - Michael Fraser
+  - Lawrence E. Heisler
+  - Julie Livingstone
+  - Takafumi N. Yamaguchi
+  - Alexandre Rouette
+  - Adrien Foucal
+  - Shadrielle Melijah G. Espiritu
+  - Ankit Sinha
+  - Michelle Sam
+  - Lee Timms
+  - Jeremy Johns
+  - Ada Wong
+  - Alex Murison
+  - "Mich\xE8le Orain"
+  - "Val\xE9rie Picard"
+  - "H\xE9l\xE8ne Hovington"
+  - Alain Bergeron
+  - Louis Lacombe
+  - Mathieu Lupien
+  - Yves Fradet
+  - "Bernard T\xEAtu"
+  - John D. McPherson
+  - Bogdan Pasaniuc
+  - Thomas Kislinger
+  - Melvin L. K. Chua
+  - Mark M. Pomerantz
+  - Theodorus van der Kwast
+  - Matthew L. Freedman
+  - Ram S. Mani
+  - Housheng H. He
+  - Robert G. Bristow
+  - Paul C. Boutros
+  publisher: Nature Medicine
+  date: '2019-10-01'
+  link: https://doi.org/gh4xdz
+  orcid: 0000-0002-2273-2099
   plugin: sources.py
   file: sources.yaml
+  type: paper
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41591-019-0579-z/MediaObjects/41591_2019_579_Fig3_HTML.png?as=webp
+- id: pmid:30685078
+  title: Molecular Hallmarks of Multiparametric Magnetic Resonance Imaging Visibility
+    in Prostate Cancer.
+  authors:
+  - Kathleen E Houlahan
+  - Amirali Salmasi
+  - Taylor Y Sadun
+  - Aydin Pooli
+  - Ely R Felker
+  - Julie Livingstone
+  - Vincent Huang
+  - Steven S Raman
+  - Preeti Ahuja
+  - Anthony E Sisk
+  - Paul C Boutros
+  - Robert E Reiter
+  publisher: European urology
+  date: '2019-01-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30685078
+  orcid: 0000-0002-2273-2099
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0302283818310443-gr1.jpg
+- id: pmid:30400818
+  title: Combining accurate tumor genome simulation with crowdsourcing to benchmark
+    somatic structural variant detection.
+  authors:
+  - Anna Y Lee
+  - Adam D Ewing
+  - Kyle Ellrott
+  - Yin Hu
+  - Kathleen E Houlahan
+  - J Christopher Bare
+  - Shadrielle Melijah G Espiritu
+  - Vincent Huang
+  - Kristen Dang
+  - Zechen Chong
+  - Cristian Caloian
+  - Takafumi N Yamaguchi
+  - Michael R Kellen
+  - Ken Chen
+  - Thea C Norman
+  - Stephen H Friend
+  - Justin Guinney
+  - Gustavo Stolovitzky
+  - David Haussler
+  - Adam A Margolin
+  - Joshua M Stuart
+  - Paul C Boutros
+  publisher: Genome biology
+  date: '2018-11-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30400818
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-018-05660-0
+  title: MYC dephosphorylation by the PP1/PNUTS phosphatase complex regulates chromatin
+    binding and protein stability
+  authors:
+  - Dharmendra Dingar
+  - William B. Tu
+  - Diana Resetca
+  - Corey Lourenco
+  - Aaliya Tamachi
+  - Jason De Melo
+  - Kathleen E. Houlahan
+  - Manpreet Kalkat
+  - Pak-Kei Chan
+  - Paul C. Boutros
+  - Brian Raught
+  - Linda Z. Penn
+  publisher: Nature Communications
+  date: '2018-08-29'
+  link: https://doi.org/gd6tv5
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:25984700
+  title: Combining tumor genome simulation with crowdsourcing to benchmark somatic
+    single-nucleotide-variant detection.
+  authors:
+  - Adam D Ewing
+  - Kathleen E Houlahan
+  - Yin Hu
+  - Kyle Ellrott
+  - Cristian Caloian
+  - Takafumi N Yamaguchi
+  - J Christopher Bare
+  - Christine P'ng
+  - Daryl Waggott
+  - Veronica Y Sabelnykova
+  - Michael R Kellen
+  - Thea C Norman
+  - David Haussler
+  - Stephen H Friend
+  - Gustavo Stolovitzky
+  - Adam A Margolin
+  - Joshua M Stuart
+  - Paul C Boutros
+  publisher: Nature methods
+  date: '2015-05-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25984700
+  orcid: 0000-0002-2273-2099
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnmeth.3407/MediaObjects/41592_2015_Article_BFnmeth3407_Fig1_HTML.jpg?as=webp

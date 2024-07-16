@@ -7,14 +7,17 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The Houlahan lab integrates large-scale, diverse tumour multi-omic data with statistical and machine learning models to uncover the impact of inherited DNA variants on tumour evolution. 
 
 {% include section.html %}
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="doi:10.1126/science.adh8697" style="rich" %}
+
+{% include citation.html lookup="doi:10.1093/jnci/djad001" style="rich" %}
+
+{% include citation.html lookup="doi:10.1038/s41591-019-0579-z" style="rich" %}
 
 {% include section.html %}
 

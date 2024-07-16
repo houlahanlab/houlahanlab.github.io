@@ -1,23 +1,24 @@
-- id: doi:10.1371/journal.pcbi.1007128
+- id: doi:10.1126/science.adh8697
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+  date: 2024-05-31
+  image: https://www.science.org/cms/10.1126/science.adh8697/asset/f88a067e-6fb6-49db-88d1-c022946f7fa2/assets/images/large/science.adh8697-fa.jpg
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: doi:10.1038/s41591-019-0579-z
+  type: paper
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41591-019-0579-z/MediaObjects/41591_2019_579_Fig3_HTML.png?as=webp
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1093/jnci/djad001
+  type: paper
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jnci/115/4/10.1093_jnci_djad001/1/m_djad001f1.jpeg?Expires=1723579884&Signature=EVpMm1m5V54KII3wZvf0p4EsYvOOUpcbkhyiE-b5zrhY5J7NPodKzUZaNsylGQdewq5mc-Mrt6SSqiFXsfmErxTBx8yBmiJTmebj4uPPwHO17yDRjj-RY7-jF1qFJmv0ZYVLG8xiB3XF1T-z0aIotb~BDLr-8FVOHwWwScS45~ZXb~Jv~91~qYRZMcOYcWIR17gqYQYhGztXq24ZCHKcx3mJcCDIEee2oB9myspuvzx4z7ICd~eOtywAKCJN-PGuhwk8azM9zIEVXOU-Ze7VsZRra6jZgQ5Gq62MQ9KFfZs8XQmS4ERUoLFKGYKc0ysL36aCPgUeB2W~Y-1CR53r-A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+
+- id: doi:10.1101/2023.03.15.532870
+  remove: true
+
+- id: doi:10.1093/jnci/djab052
+  remove: true
+
+- id: pmid:25984700
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnmeth.3407/MediaObjects/41592_2015_Article_BFnmeth3407_Fig1_HTML.jpg?as=webp
+
+- id: pmid:30685078
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0302283818310443-gr1.jpg

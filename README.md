@@ -1,5 +1,5 @@
 
-# houlahanlabDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Houlahan Lab Website
 
 Visit **[houlahanlab.github.io](https://houlahanlab.github.io)** 🚀
 

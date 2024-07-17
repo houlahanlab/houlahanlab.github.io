@@ -1,47 +1,19 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Germline-mediated immunoediting
+  subtitle: 
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/science2.jpg
+  link: 
+  description: Inherited variants modulate various elements of the tumour-immune interface. We leverage large-scale, retrospective multi-omic cohorts to investigate the mechanisms by which inherited variants influence immune responses and sculpt the evolution of a tumor. 
+  repo: 
   tags:
-    - resource
+    - 
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Pangenome DNA alignment
+  subtitle: 
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/alignment.jpg
+  link: 
+  description: Genomic analyses heavily rely on accurate alignment of sequencing reads to reference genomes. We interrogate the impact genetic variation has on DNA alignment and downstream analyses to establish accurate and unbiased genomic best practices.
+  repo: 
   tags:
-    - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+    - 

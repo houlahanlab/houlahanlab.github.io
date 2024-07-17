@@ -31,9 +31,9 @@ The molecular profiles of tumours vary from individual to individual which makes
   text=text
 %}
 
-<!-- {% capture text %}
+{% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our work focuses on both the biological and technical impacts of inherited variants -- how they sculpt the molecular profile of a tumour and how they influence our assays to measure it.
 
 {%
   include button.html
@@ -48,13 +48,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/alignment.jpg"
   link="projects"
   title="Our Projects"
   flip=true
   style="bare"
   text=text
-%} -->
+%}
 
 {% capture text %}
 

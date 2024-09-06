@@ -1,5 +1,24 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1158/2159-8290.CD-24-0774
+  title: Insights on Future Directions in Cancer Research from the AACR NextGen Stars
+  authors:
+  - "Israel Ca\xF1adas"
+  - Gabriele Casirati
+  - Kathleen E. Houlahan
+  - Kara N. Maxwell
+  - Arnav Mehta
+  - Abhijit Parolia
+  - Olivier Saulnier
+  - Alison M. Taylor
+  - Claire E. Thomas
+  - "Ignacio V\xE1zquez-Garc\xEDa"
+  publisher: Cancer Discovery
+  date: '2024-09-04'
+  link: https://doi.org/gvbk9j
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1126/science.adh8697
   title: Germline-mediated immunoediting sculpts breast cancer subtypes and metastatic
     proclivity

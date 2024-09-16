@@ -19,6 +19,35 @@
   orcid: 0000-0002-2273-2099
   plugin: orcid.py
   file: orcid.yaml
+- id: pmid:39223670
+  title: Analysis of ductal carcinoma in situ by self-reported race reveals molecular
+    differences related to outcome.
+  authors:
+  - Siri H Strand
+  - Kathleen E Houlahan
+  - Vernal Branch
+  - Thomas Lynch
+  - "Bel\xE9n Rivero-Guiti\xE9rrez"
+  - Bryan Harmon
+  - Fergus Couch
+  - Kristalyn Gallagher
+  - Mark Kilgore
+  - Shi Wei
+  - Angela DeMichele
+  - Tari King
+  - Priscilla McAuliffe
+  - Christina Curtis
+  - Kouros Owzar
+  - Jeffrey R Marks
+  - Graham A Colditz
+  - E Shelley Hwang
+  - Robert B West
+  publisher: 'Breast cancer research : BCR'
+  date: '2024-09-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39223670
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1126/science.adh8697
   title: Germline-mediated immunoediting sculpts breast cancer subtypes and metastatic
     proclivity
@@ -248,6 +277,95 @@
   orcid: 0000-0002-2273-2099
   plugin: orcid.py
   file: orcid.yaml
+- id: pmid:34019808
+  title: A tumor "personality" test to guide therapeutic decision making.
+  authors:
+  - Kathleen E Houlahan
+  - Christina Curtis
+  publisher: Cancer cell
+  date: '2021-05-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34019808
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:32661416
+  title: The DNA methylation landscape of advanced prostate cancer.
+  authors:
+  - Shuang G Zhao
+  - William S Chen
+  - Haolong Li
+  - Adam Foye
+  - Meng Zhang
+  - "Martin Sj\xF6str\xF6m"
+  - Rahul Aggarwal
+  - Denise Playdle
+  - Arnold Liao
+  - Joshi J Alumkal
+  - Rajdeep Das
+  - Jonathan Chou
+  - Junjie T Hua
+  - Travis J Barnard
+  - Adina M Bailey
+  - Eric D Chow
+  - Marc D Perry
+  - Ha X Dang
+  - Rendong Yang
+  - Ruhollah Moussavi-Baygi
+  - Li Zhang
+  - Mohammed Alshalalfa
+  - S Laura Chang
+  - Kathleen E Houlahan
+  - Yu-Jia Shiah
+  - Tomasz M Beer
+  - George Thomas
+  - Kim N Chi
+  - Martin Gleave
+  - Amina Zoubeidi
+  - Robert E Reiter
+  - Matthew B Rettig
+  - Owen Witte
+  - M Yvonne Kim
+  - Lawrence Fong
+  - Daniel E Spratt
+  - Todd M Morgan
+  - Rohit Bose
+  - Franklin W Huang
+  - Hui Li
+  - Lisa Chesner
+  - Tanushree Shenoy
+  - Hani Goodarzi
+  - Irfan A Asangani
+  - Shahneen Sandhu
+  - Joshua M Lang
+  - Nupam P Mahajan
+  - Primo N Lara
+  - Christopher P Evans
+  - Phillip Febbo
+  - Serafim Batzoglou
+  - Karen E Knudsen
+  - Housheng H He
+  - Jiaoti Huang
+  - Wilbert Zwart
+  - Joseph F Costello
+  - Jianhua Luo
+  - Scott A Tomlins
+  - Alexander W Wyatt
+  - Scott M Dehm
+  - Alan Ashworth
+  - Luke A Gilbert
+  - Paul C Boutros
+  - Kyle Farh
+  - Arul M Chinnaiyan
+  - Christopher A Maher
+  - Eric J Small
+  - David A Quigley
+  - Felix Y Feng
+  publisher: Nature genetics
+  date: '2020-07-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32661416
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1172/JCI134260
   title: "The landscape of RNA polymerase II\u2013associated chromatin interactions\
     \ in prostate cancer"
@@ -334,6 +452,23 @@
   file: sources.yaml
   type: paper
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41591-019-0579-z/MediaObjects/41591_2019_579_Fig3_HTML.png?as=webp
+- id: pmid:31350286
+  title: Modelling the MYC-driven normal-to-tumour switch in breast cancer.
+  authors:
+  - Corey Lourenco
+  - Manpreet Kalkat
+  - Kathleen E Houlahan
+  - Jason De Melo
+  - Joseph Longo
+  - Susan J Done
+  - Paul C Boutros
+  - Linda Z Penn
+  publisher: Disease models & mechanisms
+  date: '2019-07-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31350286
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
 - id: pmid:30685078
   title: Molecular Hallmarks of Multiparametric Magnetic Resonance Imaging Visibility
     in Prostate Cancer.
@@ -357,6 +492,68 @@
   plugin: sources.py
   file: sources.yaml
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0302283818310443-gr1.jpg
+- id: pmid:30665349
+  title: 'BPG: Seamless, automated and interactive visualization of scientific data.'
+  authors:
+  - Christine P'ng
+  - Jeffrey Green
+  - Lauren C Chong
+  - Daryl Waggott
+  - Stephenie D Prokopec
+  - Mehrdad Shamsi
+  - Francis Nguyen
+  - Denise Y F Mak
+  - Felix Lam
+  - Marco A Albuquerque
+  - Ying Wu
+  - Esther H Jung
+  - Maud H W Starmans
+  - Michelle A Chan-Seng-Yue
+  - Cindy Q Yao
+  - Bianca Liang
+  - Emilie Lalonde
+  - Syed Haider
+  - Nicole A Simone
+  - Dorota Sendorek
+  - Kenneth C Chu
+  - Nathalie C Moon
+  - Natalie S Fox
+  - Michal R Grzadkowski
+  - Nicholas J Harding
+  - Clement Fung
+  - Amanda R Murdoch
+  - Kathleen E Houlahan
+  - Jianxin Wang
+  - David R Garcia
+  - Richard de Borja
+  - Ren X Sun
+  - Xihui Lin
+  - Gregory M Chen
+  - Aileen Lu
+  - Yu-Jia Shiah
+  - Amin Zia
+  - Ryan Kearns
+  - Paul C Boutros
+  publisher: BMC bioinformatics
+  date: '2019-01-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30665349
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:30864317
+  title: 'PLATYPUS: A Multiple-View Learning Predictive Framework for Cancer Drug
+    Sensitivity Prediction.'
+  authors:
+  - Kiley Graim
+  - Verena Friedl
+  - Kathleen E Houlahan
+  - Joshua M Stuart
+  publisher: Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing
+  date: '2019-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30864317
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
 - id: pmid:30400818
   title: Combining accurate tumor genome simulation with crowdsourcing to benchmark
     somatic structural variant detection.
@@ -389,6 +586,28 @@
   orcid: 0000-0002-2273-2099
   plugin: orcid.py
   file: orcid.yaml
+- id: pmid:30253747
+  title: 'Valection: design optimization for validation and verification studies.'
+  authors:
+  - Christopher I Cooper
+  - Delia Yao
+  - Dorota H Sendorek
+  - Takafumi N Yamaguchi
+  - Christine P'ng
+  - Kathleen E Houlahan
+  - Cristian Caloian
+  - Michael Fraser
+  - Kyle Ellrott
+  - Adam A Margolin
+  - Robert G Bristow
+  - Joshua M Stuart
+  - Paul C Boutros
+  publisher: BMC bioinformatics
+  date: '2018-09-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30253747
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41467-018-05660-0
   title: MYC dephosphorylation by the PP1/PNUTS phosphatase complex regulates chromatin
     binding and protein stability
@@ -408,6 +627,243 @@
   publisher: Nature Communications
   date: '2018-08-29'
   link: https://doi.org/gd6tv5
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:29681457
+  title: The Evolutionary Landscape of Localized Prostate Cancers Drives Clinical
+    Aggression.
+  authors:
+  - Shadrielle Melijah G Espiritu
+  - Lydia Y Liu
+  - Yulia Rubanova
+  - Vinayak Bhandari
+  - Erle M Holgersen
+  - Lesia M Szyca
+  - Natalie S Fox
+  - Melvin L K Chua
+  - Takafumi N Yamaguchi
+  - Lawrence E Heisler
+  - Julie Livingstone
+  - Jeff Wintersinger
+  - Fouad Yousif
+  - Emilie Lalonde
+  - Alexandre Rouette
+  - Adriana Salcedo
+  - Kathleen E Houlahan
+  - Constance H Li
+  - Vincent Huang
+  - Michael Fraser
+  - Theodorus van der Kwast
+  - Quaid D Morris
+  - Robert G Bristow
+  - Paul C Boutros
+  publisher: Cell
+  date: '2018-04-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29681457
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:29625052
+  title: Pathogenic Germline Variants in 10,389 Adult Cancers.
+  authors:
+  - Kuan-Lin Huang
+  - R Jay Mashl
+  - Yige Wu
+  - Deborah I Ritter
+  - Jiayin Wang
+  - Clara Oh
+  - Marta Paczkowska
+  - Sheila Reynolds
+  - Matthew A Wyczalkowski
+  - Ninad Oak
+  - Adam D Scott
+  - Michal Krassowski
+  - Andrew D Cherniack
+  - Kathleen E Houlahan
+  - Reyka Jayasinghe
+  - Liang-Bo Wang
+  - Daniel Cui Zhou
+  - Di Liu
+  - Song Cao
+  - Young Won Kim
+  - Amanda Koire
+  - Joshua F McMichael
+  - Vishwanathan Hucthagowder
+  - Tae-Beom Kim
+  - Abigail Hahn
+  - Chen Wang
+  - Michael D McLellan
+  - Fahd Al-Mulla
+  - Kimberly J Johnson
+  - Olivier Lichtarge
+  - Paul C Boutros
+  - Benjamin Raphael
+  - Alexander J Lazar
+  - Wei Zhang
+  - Michael C Wendl
+  - Ramaswamy Govindan
+  - Sanjay Jain
+  - David Wheeler
+  - Shashikant Kulkarni
+  - John F Dipersio
+  - "J\xFCri Reimand"
+  - Funda Meric-Bernstam
+  - Ken Chen
+  - Ilya Shmulevich
+  - Sharon E Plon
+  - Feng Chen
+  - Li Ding
+  publisher: Cell
+  date: '2018-04-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29625052
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:29385983
+  title: Germline contamination and leakage in whole genome somatic single nucleotide
+    variant detection.
+  authors:
+  - Dorota H Sendorek
+  - Cristian Caloian
+  - Kyle Ellrott
+  - J Christopher Bare
+  - Takafumi N Yamaguchi
+  - Adam D Ewing
+  - Kathleen E Houlahan
+  - Thea C Norman
+  - Adam A Margolin
+  - Joshua M Stuart
+  - Paul C Boutros
+  publisher: BMC bioinformatics
+  date: '2018-01-31'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29385983
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:28086803
+  title: Compendium of TCDD-mediated transcriptomic response datasets in mammalian
+    model systems.
+  authors:
+  - Stephenie D Prokopec
+  - Kathleen E Houlahan
+  - Ren X Sun
+  - John D Watson
+  - Cindy Q Yao
+  - Jamie Lee
+  - Christine P'ng
+  - Renee Pang
+  - Alexander H Wu
+  - Lauren C Chong
+  - Ashley B Smith
+  - Nicholas J Harding
+  - Ivy D Moffat
+  - "Jere Lind\xE9n"
+  - Sanna Lensu
+  - Allan B Okey
+  - Raimo Pohjanvirta
+  - Paul C Boutros
+  publisher: BMC genomics
+  date: '2017-01-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28086803
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:28068672
+  title: Genomic hallmarks of localized, non-indolent prostate cancer.
+  authors:
+  - Michael Fraser
+  - Veronica Y Sabelnykova
+  - Takafumi N Yamaguchi
+  - Lawrence E Heisler
+  - Julie Livingstone
+  - Vincent Huang
+  - Yu-Jia Shiah
+  - Fouad Yousif
+  - Xihui Lin
+  - Andre P Masella
+  - Natalie S Fox
+  - Michael Xie
+  - Stephenie D Prokopec
+  - Alejandro Berlin
+  - Emilie Lalonde
+  - Musaddeque Ahmed
+  - Dominique Trudel
+  - Xuemei Luo
+  - Timothy A Beck
+  - Alice Meng
+  - Junyan Zhang
+  - Alister D'Costa
+  - Robert E Denroche
+  - Haiying Kong
+  - Shadrielle Melijah G Espiritu
+  - Melvin L K Chua
+  - Ada Wong
+  - Taryne Chong
+  - Michelle Sam
+  - Jeremy Johns
+  - Lee Timms
+  - Nicholas B Buchner
+  - "Mich\xE8le Orain"
+  - "Val\xE9rie Picard"
+  - "Hel\xE8ne Hovington"
+  - Alexander Murison
+  - Ken Kron
+  - Nicholas J Harding
+  - Christine P'ng
+  - Kathleen E Houlahan
+  - Kenneth C Chu
+  - Bryan Lo
+  - Francis Nguyen
+  - Constance H Li
+  - Ren X Sun
+  - Richard de Borja
+  - Christopher I Cooper
+  - Julia F Hopkins
+  - Shaylan K Govind
+  - Clement Fung
+  - Daryl Waggott
+  - Jeffrey Green
+  - Syed Haider
+  - Michelle A Chan-Seng-Yue
+  - Esther Jung
+  - Zhiyuan Wang
+  - Alain Bergeron
+  - Alan Dal Pra
+  - Louis Lacombe
+  - Colin C Collins
+  - Cenk Sahinalp
+  - Mathieu Lupien
+  - Neil E Fleshner
+  - Housheng H He
+  - Yves Fradet
+  - Bernard Tetu
+  - Theodorus van der Kwast
+  - John D McPherson
+  - Robert G Bristow
+  - Paul C Boutros
+  publisher: Nature
+  date: '2017-01-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28068672
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:26232522
+  title: "Transcriptional profiling of rat white adipose tissue response to 2,3,7,8-tetrachlorodibenzo-\u03C1\
+    -dioxin."
+  authors:
+  - Kathleen E Houlahan
+  - Stephenie D Prokopec
+  - Ren X Sun
+  - Ivy D Moffat
+  - "Jere Lind\xE9n"
+  - Sanna Lensu
+  - Allan B Okey
+  - Raimo Pohjanvirta
+  - Paul C Boutros
+  publisher: Toxicology and applied pharmacology
+  date: '2015-07-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26232522
   orcid: 0000-0002-2273-2099
   plugin: orcid.py
   file: orcid.yaml
@@ -440,3 +896,44 @@
   plugin: sources.py
   file: sources.yaml
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnmeth.3407/MediaObjects/41592_2015_Article_BFnmeth3407_Fig1_HTML.jpg?as=webp
+- id: pmid:25529477
+  title: "Transcriptional profiling of rat hypothalamus response to 2,3,7,8-tetrachlorodibenzo-\u03C1\
+    -dioxin."
+  authors:
+  - Kathleen E Houlahan
+  - Stephenie D Prokopec
+  - Ivy D Moffat
+  - "Jere Lind\xE9n"
+  - Sanna Lensu
+  - Allan B Okey
+  - Raimo Pohjanvirta
+  - Paul C Boutros
+  publisher: Toxicology
+  date: '2014-12-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25529477
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:25467400
+  title: Cross-species transcriptomic analysis elucidates constitutive aryl hydrocarbon
+    receptor activity.
+  authors:
+  - Ren X Sun
+  - Lauren C Chong
+  - Trent T Simmons
+  - Kathleen E Houlahan
+  - Stephenie D Prokopec
+  - John D Watson
+  - Ivy D Moffat
+  - Sanna Lensu
+  - "Jere Lind\xE9n"
+  - Christine P'ng
+  - Allan B Okey
+  - Raimo Pohjanvirta
+  - Paul C Boutros
+  publisher: BMC genomics
+  date: '2014-12-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25467400
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml

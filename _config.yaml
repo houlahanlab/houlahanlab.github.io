@@ -5,6 +5,7 @@ description: The Houlahan lab integrates large-scale, diverse tumour multi-omic 
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
+baseurl: ""
 
 # site social media and other links
 links:

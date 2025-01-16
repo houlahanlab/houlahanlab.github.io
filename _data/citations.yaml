@@ -1,5 +1,24 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41586-024-08377-x
+  title: Complex rearrangements fuel ER+ and HER2+ breast tumours
+  authors:
+  - Kathleen E. Houlahan
+  - Lise Mangiante
+  - Cristina Sotomayor-Vivas
+  - Alvina Adimoelja
+  - Seongyeol Park
+  - Aziz Khan
+  - Sophia J. Pribus
+  - Zhicheng Ma
+  - Jennifer L. Caswell-Jin
+  - Christina Curtis
+  publisher: Nature
+  date: '2025-01-08'
+  link: https://doi.org/g8zjtk
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1158/2159-8290.CD-24-0774
   title: Insights on Future Directions in Cancer Research from the AACR NextGen Stars
   authors:

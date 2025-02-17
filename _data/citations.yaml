@@ -19,6 +19,97 @@
   orcid: 0000-0002-2273-2099
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1158/2159-8290.CD-23-0882
+  title: The Germline and Somatic Origins of Prostate Cancer Heterogeneity
+  authors:
+  - Takafumi N. Yamaguchi
+  - Kathleen E. Houlahan
+  - Helen Zhu
+  - Natalie Kurganovs
+  - Julie Livingstone
+  - Natalie S. Fox
+  - Jiapei Yuan
+  - Jocelyn Sietsma Penington
+  - Chol-Hee Jung
+  - Tommer Schwarz
+  - Weerachai Jaratlerdsiri
+  - Job van Riet
+  - Peter Georgeson
+  - Stefano Mangiola
+  - Kodi Taraszka
+  - Robert Lesurf
+  - Jue Jiang
+  - Ken Chow
+  - Lawrence E. Heisler
+  - Yu-Jia Shiah
+  - Susmita G. Ramanand
+  - Michael J. Clarkson
+  - Anne Nguyen
+  - Shadrielle Melijah G. Espiritu
+  - Ryan Stuchbery
+  - Richard Jovelin
+  - Vincent Huang
+  - Connor Bell
+  - Edward O'Connor
+  - Patrick J. McCoy
+  - Christopher M. Lalansingh
+  - Marek Cmero
+  - Adriana Salcedo
+  - Eva K.F. Chan
+  - Lydia Y. Liu
+  - Phillip D. Stricker
+  - Vinayak Bhandari
+  - Riana M.S. Bornman
+  - Dorota HS. Sendorek
+  - Andrew Lonie
+  - Stephenie D. Prokopec
+  - Michael Fraser
+  - Justin S. Peters
+  - Adrien Foucal
+  - Shingai B A. Mutambirwa
+  - Lachlan Mcintosh
+  - "Mich\xE8le Orain"
+  - Matthew Wakefield
+  - "Val\xE9rie Picard"
+  - Daniel J. Park
+  - "H\xE9l\xE8ne Hovington"
+  - Michael Kerger
+  - Alain Bergeron
+  - Veronica Sabelnykova
+  - Ji-Heui Seo
+  - Mark M. Pomerantz
+  - Noah Zaitlen
+  - Sebastian M. Waszak
+  - Alexander Gusev
+  - Louis Lacombe
+  - Yves Fradet
+  - Andrew Ryan
+  - Amar U. Kishan
+  - Martijn P. Lolkema
+  - Joachim Weischenfeldt
+  - "Bernard T\xEAtu"
+  - Anthony J. Costello
+  - Vanessa M. Hayes
+  - Rayjean J. Hung
+  - Housheng H. He
+  - John D. McPherson
+  - Bogdan Pasaniuc
+  - Theodorus van der Kwast
+  - Anthony T. Papenfuss
+  - Matthew L. Freedman
+  - Bernard J. Pope
+  - Robert G. Bristow
+  - Ram S. Mani
+  - Niall M. Corcoran
+  - "J\xFCri Reimand"
+  - Christopher M. Hovens
+  - Paul C. Boutros
+  publisher: Cancer Discovery
+  date: '2025-02-13'
+  link: https://doi.org/g848qp
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1158/2159-8290.CD-24-0774
   title: Insights on Future Directions in Cancer Research from the AACR NextGen Stars
   authors:

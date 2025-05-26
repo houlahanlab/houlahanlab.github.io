@@ -1,5 +1,1837 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1158/2159-8290.c.7799002
+  title: Data from The Germline and Somatic Origins of Prostate Cancer Heterogeneity
+  authors:
+  - Takafumi N. Yamaguchi
+  - Kathleen E. Houlahan
+  - Helen Zhu
+  - Natalie Kurganovs
+  - Julie Livingstone
+  - Natalie S. Fox
+  - Jiapei Yuan
+  - Jocelyn Sietsma Penington
+  - Chol-Hee Jung
+  - Tommer Schwarz
+  - Weerachai Jaratlerdsiri
+  - Job van Riet
+  - Peter Georgeson
+  - Stefano Mangiola
+  - Kodi Taraszka
+  - Robert Lesurf
+  - Jue Jiang
+  - Ken Chow
+  - Lawrence E. Heisler
+  - Yu-Jia Shiah
+  - Susmita G. Ramanand
+  - Michael J. Clarkson
+  - Anne Nguyen
+  - Shadrielle Melijah G. Espiritu
+  - Ryan Stuchbery
+  - Richard Jovelin
+  - Vincent Huang
+  - Connor Bell
+  - "Edward O\u2019Connor"
+  - Patrick J. McCoy
+  - Christopher M. Lalansingh
+  - Marek Cmero
+  - Adriana Salcedo
+  - Eva K.F. Chan
+  - Lydia Y. Liu
+  - Phillip D. Stricker
+  - Vinayak Bhandari
+  - Riana M.S. Bornman
+  - Dorota H.S. Sendorek
+  - Andrew Lonie
+  - Stephenie D. Prokopec
+  - Michael Fraser
+  - Justin S. Peters
+  - Adrien Foucal
+  - Shingai B.A. Mutambirwa
+  - Lachlan Mcintosh
+  - "Mich\xE8le Orain"
+  - Matthew Wakefield
+  - "Val\xE9rie Picard"
+  - Daniel J. Park
+  - "H\xE9l\xE8ne Hovington"
+  - Michael Kerger
+  - Alain Bergeron
+  - Veronica Sabelnykova
+  - Ji-Heui Seo
+  - Mark M. Pomerantz
+  - Noah Zaitlen
+  - Sebastian M. Waszak
+  - Alexander Gusev
+  - Louis Lacombe
+  - Yves Fradet
+  - Andrew Ryan
+  - Amar U. Kishan
+  - Martijn P. Lolkema
+  - Joachim Weischenfeldt
+  - "Bernard T\xEAtu"
+  - Anthony J. Costello
+  - Vanessa M. Hayes
+  - Rayjean J. Hung
+  - Housheng H. He
+  - John D. McPherson
+  - Bogdan Pasaniuc
+  - Theodorus van der Kwast
+  - Anthony T. Papenfuss
+  - Matthew L. Freedman
+  - Bernard J. Pope
+  - Robert G. Bristow
+  - Ram S. Mani
+  - Niall M. Corcoran
+  - "J\xFCri Reimand"
+  - Christopher M. Hovens
+  - Paul C. Boutros
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-05-02'
+  link: https://doi.org/g9hcm9
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2159-8290.28918330
+  title: Figure 2 from The Germline and Somatic Origins of Prostate Cancer Heterogeneity
+  authors:
+  - Takafumi N. Yamaguchi
+  - Kathleen E. Houlahan
+  - Helen Zhu
+  - Natalie Kurganovs
+  - Julie Livingstone
+  - Natalie S. Fox
+  - Jiapei Yuan
+  - Jocelyn Sietsma Penington
+  - Chol-Hee Jung
+  - Tommer Schwarz
+  - Weerachai Jaratlerdsiri
+  - Job van Riet
+  - Peter Georgeson
+  - Stefano Mangiola
+  - Kodi Taraszka
+  - Robert Lesurf
+  - Jue Jiang
+  - Ken Chow
+  - Lawrence E. Heisler
+  - Yu-Jia Shiah
+  - Susmita G. Ramanand
+  - Michael J. Clarkson
+  - Anne Nguyen
+  - Shadrielle Melijah G. Espiritu
+  - Ryan Stuchbery
+  - Richard Jovelin
+  - Vincent Huang
+  - Connor Bell
+  - "Edward O\u2019Connor"
+  - Patrick J. McCoy
+  - Christopher M. Lalansingh
+  - Marek Cmero
+  - Adriana Salcedo
+  - Eva K.F. Chan
+  - Lydia Y. Liu
+  - Phillip D. Stricker
+  - Vinayak Bhandari
+  - Riana M.S. Bornman
+  - Dorota H.S. Sendorek
+  - Andrew Lonie
+  - Stephenie D. Prokopec
+  - Michael Fraser
+  - Justin S. Peters
+  - Adrien Foucal
+  - Shingai B.A. Mutambirwa
+  - Lachlan Mcintosh
+  - "Mich\xE8le Orain"
+  - Matthew Wakefield
+  - "Val\xE9rie Picard"
+  - Daniel J. Park
+  - "H\xE9l\xE8ne Hovington"
+  - Michael Kerger
+  - Alain Bergeron
+  - Veronica Sabelnykova
+  - Ji-Heui Seo
+  - Mark M. Pomerantz
+  - Noah Zaitlen
+  - Sebastian M. Waszak
+  - Alexander Gusev
+  - Louis Lacombe
+  - Yves Fradet
+  - Andrew Ryan
+  - Amar U. Kishan
+  - Martijn P. Lolkema
+  - Joachim Weischenfeldt
+  - "Bernard T\xEAtu"
+  - Anthony J. Costello
+  - Vanessa M. Hayes
+  - Rayjean J. Hung
+  - Housheng H. He
+  - John D. McPherson
+  - Bogdan Pasaniuc
+  - Theodorus van der Kwast
+  - Anthony T. Papenfuss
+  - Matthew L. Freedman
+  - Bernard J. Pope
+  - Robert G. Bristow
+  - Ram S. Mani
+  - Niall M. Corcoran
+  - "J\xFCri Reimand"
+  - Christopher M. Hovens
+  - Paul C. Boutros
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-05-02'
+  link: https://doi.org/g9hcnb
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2159-8290.28918327
+  title: Figure 3 from The Germline and Somatic Origins of Prostate Cancer Heterogeneity
+  authors:
+  - Takafumi N. Yamaguchi
+  - Kathleen E. Houlahan
+  - Helen Zhu
+  - Natalie Kurganovs
+  - Julie Livingstone
+  - Natalie S. Fox
+  - Jiapei Yuan
+  - Jocelyn Sietsma Penington
+  - Chol-Hee Jung
+  - Tommer Schwarz
+  - Weerachai Jaratlerdsiri
+  - Job van Riet
+  - Peter Georgeson
+  - Stefano Mangiola
+  - Kodi Taraszka
+  - Robert Lesurf
+  - Jue Jiang
+  - Ken Chow
+  - Lawrence E. Heisler
+  - Yu-Jia Shiah
+  - Susmita G. Ramanand
+  - Michael J. Clarkson
+  - Anne Nguyen
+  - Shadrielle Melijah G. Espiritu
+  - Ryan Stuchbery
+  - Richard Jovelin
+  - Vincent Huang
+  - Connor Bell
+  - "Edward O\u2019Connor"
+  - Patrick J. McCoy
+  - Christopher M. Lalansingh
+  - Marek Cmero
+  - Adriana Salcedo
+  - Eva K.F. Chan
+  - Lydia Y. Liu
+  - Phillip D. Stricker
+  - Vinayak Bhandari
+  - Riana M.S. Bornman
+  - Dorota H.S. Sendorek
+  - Andrew Lonie
+  - Stephenie D. Prokopec
+  - Michael Fraser
+  - Justin S. Peters
+  - Adrien Foucal
+  - Shingai B.A. Mutambirwa
+  - Lachlan Mcintosh
+  - "Mich\xE8le Orain"
+  - Matthew Wakefield
+  - "Val\xE9rie Picard"
+  - Daniel J. Park
+  - "H\xE9l\xE8ne Hovington"
+  - Michael Kerger
+  - Alain Bergeron
+  - Veronica Sabelnykova
+  - Ji-Heui Seo
+  - Mark M. Pomerantz
+  - Noah Zaitlen
+  - Sebastian M. Waszak
+  - Alexander Gusev
+  - Louis Lacombe
+  - Yves Fradet
+  - Andrew Ryan
+  - Amar U. Kishan
+  - Martijn P. Lolkema
+  - Joachim Weischenfeldt
+  - "Bernard T\xEAtu"
+  - Anthony J. Costello
+  - Vanessa M. Hayes
+  - Rayjean J. Hung
+  - Housheng H. He
+  - John D. McPherson
+  - Bogdan Pasaniuc
+  - Theodorus van der Kwast
+  - Anthony T. Papenfuss
+  - Matthew L. Freedman
+  - Bernard J. Pope
+  - Robert G. Bristow
+  - Ram S. Mani
+  - Niall M. Corcoran
+  - "J\xFCri Reimand"
+  - Christopher M. Hovens
+  - Paul C. Boutros
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-05-02'
+  link: https://doi.org/g9hcnc
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2159-8290.28918324
+  title: Figure 4 from The Germline and Somatic Origins of Prostate Cancer Heterogeneity
+  authors:
+  - Takafumi N. Yamaguchi
+  - Kathleen E. Houlahan
+  - Helen Zhu
+  - Natalie Kurganovs
+  - Julie Livingstone
+  - Natalie S. Fox
+  - Jiapei Yuan
+  - Jocelyn Sietsma Penington
+  - Chol-Hee Jung
+  - Tommer Schwarz
+  - Weerachai Jaratlerdsiri
+  - Job van Riet
+  - Peter Georgeson
+  - Stefano Mangiola
+  - Kodi Taraszka
+  - Robert Lesurf
+  - Jue Jiang
+  - Ken Chow
+  - Lawrence E. Heisler
+  - Yu-Jia Shiah
+  - Susmita G. Ramanand
+  - Michael J. Clarkson
+  - Anne Nguyen
+  - Shadrielle Melijah G. Espiritu
+  - Ryan Stuchbery
+  - Richard Jovelin
+  - Vincent Huang
+  - Connor Bell
+  - "Edward O\u2019Connor"
+  - Patrick J. McCoy
+  - Christopher M. Lalansingh
+  - Marek Cmero
+  - Adriana Salcedo
+  - Eva K.F. Chan
+  - Lydia Y. Liu
+  - Phillip D. Stricker
+  - Vinayak Bhandari
+  - Riana M.S. Bornman
+  - Dorota H.S. Sendorek
+  - Andrew Lonie
+  - Stephenie D. Prokopec
+  - Michael Fraser
+  - Justin S. Peters
+  - Adrien Foucal
+  - Shingai B.A. Mutambirwa
+  - Lachlan Mcintosh
+  - "Mich\xE8le Orain"
+  - Matthew Wakefield
+  - "Val\xE9rie Picard"
+  - Daniel J. Park
+  - "H\xE9l\xE8ne Hovington"
+  - Michael Kerger
+  - Alain Bergeron
+  - Veronica Sabelnykova
+  - Ji-Heui Seo
+  - Mark M. Pomerantz
+  - Noah Zaitlen
+  - Sebastian M. Waszak
+  - Alexander Gusev
+  - Louis Lacombe
+  - Yves Fradet
+  - Andrew Ryan
+  - Amar U. Kishan
+  - Martijn P. Lolkema
+  - Joachim Weischenfeldt
+  - "Bernard T\xEAtu"
+  - Anthony J. Costello
+  - Vanessa M. Hayes
+  - Rayjean J. Hung
+  - Housheng H. He
+  - John D. McPherson
+  - Bogdan Pasaniuc
+  - Theodorus van der Kwast
+  - Anthony T. Papenfuss
+  - Matthew L. Freedman
+  - Bernard J. Pope
+  - Robert G. Bristow
+  - Ram S. Mani
+  - Niall M. Corcoran
+  - "J\xFCri Reimand"
+  - Christopher M. Hovens
+  - Paul C. Boutros
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-05-02'
+  link: https://doi.org/g9hcnd
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2159-8290.28918321
+  title: Figure 5 from The Germline and Somatic Origins of Prostate Cancer Heterogeneity
+  authors:
+  - Takafumi N. Yamaguchi
+  - Kathleen E. Houlahan
+  - Helen Zhu
+  - Natalie Kurganovs
+  - Julie Livingstone
+  - Natalie S. Fox
+  - Jiapei Yuan
+  - Jocelyn Sietsma Penington
+  - Chol-Hee Jung
+  - Tommer Schwarz
+  - Weerachai Jaratlerdsiri
+  - Job van Riet
+  - Peter Georgeson
+  - Stefano Mangiola
+  - Kodi Taraszka
+  - Robert Lesurf
+  - Jue Jiang
+  - Ken Chow
+  - Lawrence E. Heisler
+  - Yu-Jia Shiah
+  - Susmita G. Ramanand
+  - Michael J. Clarkson
+  - Anne Nguyen
+  - Shadrielle Melijah G. Espiritu
+  - Ryan Stuchbery
+  - Richard Jovelin
+  - Vincent Huang
+  - Connor Bell
+  - "Edward O\u2019Connor"
+  - Patrick J. McCoy
+  - Christopher M. Lalansingh
+  - Marek Cmero
+  - Adriana Salcedo
+  - Eva K.F. Chan
+  - Lydia Y. Liu
+  - Phillip D. Stricker
+  - Vinayak Bhandari
+  - Riana M.S. Bornman
+  - Dorota H.S. Sendorek
+  - Andrew Lonie
+  - Stephenie D. Prokopec
+  - Michael Fraser
+  - Justin S. Peters
+  - Adrien Foucal
+  - Shingai B.A. Mutambirwa
+  - Lachlan Mcintosh
+  - "Mich\xE8le Orain"
+  - Matthew Wakefield
+  - "Val\xE9rie Picard"
+  - Daniel J. Park
+  - "H\xE9l\xE8ne Hovington"
+  - Michael Kerger
+  - Alain Bergeron
+  - Veronica Sabelnykova
+  - Ji-Heui Seo
+  - Mark M. Pomerantz
+  - Noah Zaitlen
+  - Sebastian M. Waszak
+  - Alexander Gusev
+  - Louis Lacombe
+  - Yves Fradet
+  - Andrew Ryan
+  - Amar U. Kishan
+  - Martijn P. Lolkema
+  - Joachim Weischenfeldt
+  - "Bernard T\xEAtu"
+  - Anthony J. Costello
+  - Vanessa M. Hayes
+  - Rayjean J. Hung
+  - Housheng H. He
+  - John D. McPherson
+  - Bogdan Pasaniuc
+  - Theodorus van der Kwast
+  - Anthony T. Papenfuss
+  - Matthew L. Freedman
+  - Bernard J. Pope
+  - Robert G. Bristow
+  - Ram S. Mani
+  - Niall M. Corcoran
+  - "J\xFCri Reimand"
+  - Christopher M. Hovens
+  - Paul C. Boutros
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-05-02'
+  link: https://doi.org/g9hcnf
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2159-8290.28918315
+  title: Figure 6 from The Germline and Somatic Origins of Prostate Cancer Heterogeneity
+  authors:
+  - Takafumi N. Yamaguchi
+  - Kathleen E. Houlahan
+  - Helen Zhu
+  - Natalie Kurganovs
+  - Julie Livingstone
+  - Natalie S. Fox
+  - Jiapei Yuan
+  - Jocelyn Sietsma Penington
+  - Chol-Hee Jung
+  - Tommer Schwarz
+  - Weerachai Jaratlerdsiri
+  - Job van Riet
+  - Peter Georgeson
+  - Stefano Mangiola
+  - Kodi Taraszka
+  - Robert Lesurf
+  - Jue Jiang
+  - Ken Chow
+  - Lawrence E. Heisler
+  - Yu-Jia Shiah
+  - Susmita G. Ramanand
+  - Michael J. Clarkson
+  - Anne Nguyen
+  - Shadrielle Melijah G. Espiritu
+  - Ryan Stuchbery
+  - Richard Jovelin
+  - Vincent Huang
+  - Connor Bell
+  - "Edward O\u2019Connor"
+  - Patrick J. McCoy
+  - Christopher M. Lalansingh
+  - Marek Cmero
+  - Adriana Salcedo
+  - Eva K.F. Chan
+  - Lydia Y. Liu
+  - Phillip D. Stricker
+  - Vinayak Bhandari
+  - Riana M.S. Bornman
+  - Dorota H.S. Sendorek
+  - Andrew Lonie
+  - Stephenie D. Prokopec
+  - Michael Fraser
+  - Justin S. Peters
+  - Adrien Foucal
+  - Shingai B.A. Mutambirwa
+  - Lachlan Mcintosh
+  - "Mich\xE8le Orain"
+  - Matthew Wakefield
+  - "Val\xE9rie Picard"
+  - Daniel J. Park
+  - "H\xE9l\xE8ne Hovington"
+  - Michael Kerger
+  - Alain Bergeron
+  - Veronica Sabelnykova
+  - Ji-Heui Seo
+  - Mark M. Pomerantz
+  - Noah Zaitlen
+  - Sebastian M. Waszak
+  - Alexander Gusev
+  - Louis Lacombe
+  - Yves Fradet
+  - Andrew Ryan
+  - Amar U. Kishan
+  - Martijn P. Lolkema
+  - Joachim Weischenfeldt
+  - "Bernard T\xEAtu"
+  - Anthony J. Costello
+  - Vanessa M. Hayes
+  - Rayjean J. Hung
+  - Housheng H. He
+  - John D. McPherson
+  - Bogdan Pasaniuc
+  - Theodorus van der Kwast
+  - Anthony T. Papenfuss
+  - Matthew L. Freedman
+  - Bernard J. Pope
+  - Robert G. Bristow
+  - Ram S. Mani
+  - Niall M. Corcoran
+  - "J\xFCri Reimand"
+  - Christopher M. Hovens
+  - Paul C. Boutros
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-05-02'
+  link: https://doi.org/g9hcng
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2159-8290.28918312
+  title: Figure 7 from The Germline and Somatic Origins of Prostate Cancer Heterogeneity
+  authors:
+  - Takafumi N. Yamaguchi
+  - Kathleen E. Houlahan
+  - Helen Zhu
+  - Natalie Kurganovs
+  - Julie Livingstone
+  - Natalie S. Fox
+  - Jiapei Yuan
+  - Jocelyn Sietsma Penington
+  - Chol-Hee Jung
+  - Tommer Schwarz
+  - Weerachai Jaratlerdsiri
+  - Job van Riet
+  - Peter Georgeson
+  - Stefano Mangiola
+  - Kodi Taraszka
+  - Robert Lesurf
+  - Jue Jiang
+  - Ken Chow
+  - Lawrence E. Heisler
+  - Yu-Jia Shiah
+  - Susmita G. Ramanand
+  - Michael J. Clarkson
+  - Anne Nguyen
+  - Shadrielle Melijah G. Espiritu
+  - Ryan Stuchbery
+  - Richard Jovelin
+  - Vincent Huang
+  - Connor Bell
+  - "Edward O\u2019Connor"
+  - Patrick J. McCoy
+  - Christopher M. Lalansingh
+  - Marek Cmero
+  - Adriana Salcedo
+  - Eva K.F. Chan
+  - Lydia Y. Liu
+  - Phillip D. Stricker
+  - Vinayak Bhandari
+  - Riana M.S. Bornman
+  - Dorota H.S. Sendorek
+  - Andrew Lonie
+  - Stephenie D. Prokopec
+  - Michael Fraser
+  - Justin S. Peters
+  - Adrien Foucal
+  - Shingai B.A. Mutambirwa
+  - Lachlan Mcintosh
+  - "Mich\xE8le Orain"
+  - Matthew Wakefield
+  - "Val\xE9rie Picard"
+  - Daniel J. Park
+  - "H\xE9l\xE8ne Hovington"
+  - Michael Kerger
+  - Alain Bergeron
+  - Veronica Sabelnykova
+  - Ji-Heui Seo
+  - Mark M. Pomerantz
+  - Noah Zaitlen
+  - Sebastian M. Waszak
+  - Alexander Gusev
+  - Louis Lacombe
+  - Yves Fradet
+  - Andrew Ryan
+  - Amar U. Kishan
+  - Martijn P. Lolkema
+  - Joachim Weischenfeldt
+  - "Bernard T\xEAtu"
+  - Anthony J. Costello
+  - Vanessa M. Hayes
+  - Rayjean J. Hung
+  - Housheng H. He
+  - John D. McPherson
+  - Bogdan Pasaniuc
+  - Theodorus van der Kwast
+  - Anthony T. Papenfuss
+  - Matthew L. Freedman
+  - Bernard J. Pope
+  - Robert G. Bristow
+  - Ram S. Mani
+  - Niall M. Corcoran
+  - "J\xFCri Reimand"
+  - Christopher M. Hovens
+  - Paul C. Boutros
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-05-02'
+  link: https://doi.org/g9hcnh
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2159-8290.28918306
+  title: Supplementary Figures from The Germline and Somatic Origins of Prostate Cancer
+    Heterogeneity
+  authors:
+  - Takafumi N. Yamaguchi
+  - Kathleen E. Houlahan
+  - Helen Zhu
+  - Natalie Kurganovs
+  - Julie Livingstone
+  - Natalie S. Fox
+  - Jiapei Yuan
+  - Jocelyn Sietsma Penington
+  - Chol-Hee Jung
+  - Tommer Schwarz
+  - Weerachai Jaratlerdsiri
+  - Job van Riet
+  - Peter Georgeson
+  - Stefano Mangiola
+  - Kodi Taraszka
+  - Robert Lesurf
+  - Jue Jiang
+  - Ken Chow
+  - Lawrence E. Heisler
+  - Yu-Jia Shiah
+  - Susmita G. Ramanand
+  - Michael J. Clarkson
+  - Anne Nguyen
+  - Shadrielle Melijah G. Espiritu
+  - Ryan Stuchbery
+  - Richard Jovelin
+  - Vincent Huang
+  - Connor Bell
+  - "Edward O\u2019Connor"
+  - Patrick J. McCoy
+  - Christopher M. Lalansingh
+  - Marek Cmero
+  - Adriana Salcedo
+  - Eva K.F. Chan
+  - Lydia Y. Liu
+  - Phillip D. Stricker
+  - Vinayak Bhandari
+  - Riana M.S. Bornman
+  - Dorota H.S. Sendorek
+  - Andrew Lonie
+  - Stephenie D. Prokopec
+  - Michael Fraser
+  - Justin S. Peters
+  - Adrien Foucal
+  - Shingai B.A. Mutambirwa
+  - Lachlan Mcintosh
+  - "Mich\xE8le Orain"
+  - Matthew Wakefield
+  - "Val\xE9rie Picard"
+  - Daniel J. Park
+  - "H\xE9l\xE8ne Hovington"
+  - Michael Kerger
+  - Alain Bergeron
+  - Veronica Sabelnykova
+  - Ji-Heui Seo
+  - Mark M. Pomerantz
+  - Noah Zaitlen
+  - Sebastian M. Waszak
+  - Alexander Gusev
+  - Louis Lacombe
+  - Yves Fradet
+  - Andrew Ryan
+  - Amar U. Kishan
+  - Martijn P. Lolkema
+  - Joachim Weischenfeldt
+  - "Bernard T\xEAtu"
+  - Anthony J. Costello
+  - Vanessa M. Hayes
+  - Rayjean J. Hung
+  - Housheng H. He
+  - John D. McPherson
+  - Bogdan Pasaniuc
+  - Theodorus van der Kwast
+  - Anthony T. Papenfuss
+  - Matthew L. Freedman
+  - Bernard J. Pope
+  - Robert G. Bristow
+  - Ram S. Mani
+  - Niall M. Corcoran
+  - "J\xFCri Reimand"
+  - Christopher M. Hovens
+  - Paul C. Boutros
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-05-02'
+  link: https://doi.org/g9hcnj
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2159-8290.28918303
+  title: Supplementary Table 1 from The Germline and Somatic Origins of Prostate Cancer
+    Heterogeneity
+  authors:
+  - Takafumi N. Yamaguchi
+  - Kathleen E. Houlahan
+  - Helen Zhu
+  - Natalie Kurganovs
+  - Julie Livingstone
+  - Natalie S. Fox
+  - Jiapei Yuan
+  - Jocelyn Sietsma Penington
+  - Chol-Hee Jung
+  - Tommer Schwarz
+  - Weerachai Jaratlerdsiri
+  - Job van Riet
+  - Peter Georgeson
+  - Stefano Mangiola
+  - Kodi Taraszka
+  - Robert Lesurf
+  - Jue Jiang
+  - Ken Chow
+  - Lawrence E. Heisler
+  - Yu-Jia Shiah
+  - Susmita G. Ramanand
+  - Michael J. Clarkson
+  - Anne Nguyen
+  - Shadrielle Melijah G. Espiritu
+  - Ryan Stuchbery
+  - Richard Jovelin
+  - Vincent Huang
+  - Connor Bell
+  - "Edward O\u2019Connor"
+  - Patrick J. McCoy
+  - Christopher M. Lalansingh
+  - Marek Cmero
+  - Adriana Salcedo
+  - Eva K.F. Chan
+  - Lydia Y. Liu
+  - Phillip D. Stricker
+  - Vinayak Bhandari
+  - Riana M.S. Bornman
+  - Dorota H.S. Sendorek
+  - Andrew Lonie
+  - Stephenie D. Prokopec
+  - Michael Fraser
+  - Justin S. Peters
+  - Adrien Foucal
+  - Shingai B.A. Mutambirwa
+  - Lachlan Mcintosh
+  - "Mich\xE8le Orain"
+  - Matthew Wakefield
+  - "Val\xE9rie Picard"
+  - Daniel J. Park
+  - "H\xE9l\xE8ne Hovington"
+  - Michael Kerger
+  - Alain Bergeron
+  - Veronica Sabelnykova
+  - Ji-Heui Seo
+  - Mark M. Pomerantz
+  - Noah Zaitlen
+  - Sebastian M. Waszak
+  - Alexander Gusev
+  - Louis Lacombe
+  - Yves Fradet
+  - Andrew Ryan
+  - Amar U. Kishan
+  - Martijn P. Lolkema
+  - Joachim Weischenfeldt
+  - "Bernard T\xEAtu"
+  - Anthony J. Costello
+  - Vanessa M. Hayes
+  - Rayjean J. Hung
+  - Housheng H. He
+  - John D. McPherson
+  - Bogdan Pasaniuc
+  - Theodorus van der Kwast
+  - Anthony T. Papenfuss
+  - Matthew L. Freedman
+  - Bernard J. Pope
+  - Robert G. Bristow
+  - Ram S. Mani
+  - Niall M. Corcoran
+  - "J\xFCri Reimand"
+  - Christopher M. Hovens
+  - Paul C. Boutros
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-05-02'
+  link: https://doi.org/g9hcnk
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2159-8290.28918300
+  title: Supplementary Table 10 from The Germline and Somatic Origins of Prostate
+    Cancer Heterogeneity
+  authors:
+  - Takafumi N. Yamaguchi
+  - Kathleen E. Houlahan
+  - Helen Zhu
+  - Natalie Kurganovs
+  - Julie Livingstone
+  - Natalie S. Fox
+  - Jiapei Yuan
+  - Jocelyn Sietsma Penington
+  - Chol-Hee Jung
+  - Tommer Schwarz
+  - Weerachai Jaratlerdsiri
+  - Job van Riet
+  - Peter Georgeson
+  - Stefano Mangiola
+  - Kodi Taraszka
+  - Robert Lesurf
+  - Jue Jiang
+  - Ken Chow
+  - Lawrence E. Heisler
+  - Yu-Jia Shiah
+  - Susmita G. Ramanand
+  - Michael J. Clarkson
+  - Anne Nguyen
+  - Shadrielle Melijah G. Espiritu
+  - Ryan Stuchbery
+  - Richard Jovelin
+  - Vincent Huang
+  - Connor Bell
+  - "Edward O\u2019Connor"
+  - Patrick J. McCoy
+  - Christopher M. Lalansingh
+  - Marek Cmero
+  - Adriana Salcedo
+  - Eva K.F. Chan
+  - Lydia Y. Liu
+  - Phillip D. Stricker
+  - Vinayak Bhandari
+  - Riana M.S. Bornman
+  - Dorota H.S. Sendorek
+  - Andrew Lonie
+  - Stephenie D. Prokopec
+  - Michael Fraser
+  - Justin S. Peters
+  - Adrien Foucal
+  - Shingai B.A. Mutambirwa
+  - Lachlan Mcintosh
+  - "Mich\xE8le Orain"
+  - Matthew Wakefield
+  - "Val\xE9rie Picard"
+  - Daniel J. Park
+  - "H\xE9l\xE8ne Hovington"
+  - Michael Kerger
+  - Alain Bergeron
+  - Veronica Sabelnykova
+  - Ji-Heui Seo
+  - Mark M. Pomerantz
+  - Noah Zaitlen
+  - Sebastian M. Waszak
+  - Alexander Gusev
+  - Louis Lacombe
+  - Yves Fradet
+  - Andrew Ryan
+  - Amar U. Kishan
+  - Martijn P. Lolkema
+  - Joachim Weischenfeldt
+  - "Bernard T\xEAtu"
+  - Anthony J. Costello
+  - Vanessa M. Hayes
+  - Rayjean J. Hung
+  - Housheng H. He
+  - John D. McPherson
+  - Bogdan Pasaniuc
+  - Theodorus van der Kwast
+  - Anthony T. Papenfuss
+  - Matthew L. Freedman
+  - Bernard J. Pope
+  - Robert G. Bristow
+  - Ram S. Mani
+  - Niall M. Corcoran
+  - "J\xFCri Reimand"
+  - Christopher M. Hovens
+  - Paul C. Boutros
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-05-02'
+  link: https://doi.org/g9hcnm
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2159-8290.28918297
+  title: Supplementary Table 11 from The Germline and Somatic Origins of Prostate
+    Cancer Heterogeneity
+  authors:
+  - Takafumi N. Yamaguchi
+  - Kathleen E. Houlahan
+  - Helen Zhu
+  - Natalie Kurganovs
+  - Julie Livingstone
+  - Natalie S. Fox
+  - Jiapei Yuan
+  - Jocelyn Sietsma Penington
+  - Chol-Hee Jung
+  - Tommer Schwarz
+  - Weerachai Jaratlerdsiri
+  - Job van Riet
+  - Peter Georgeson
+  - Stefano Mangiola
+  - Kodi Taraszka
+  - Robert Lesurf
+  - Jue Jiang
+  - Ken Chow
+  - Lawrence E. Heisler
+  - Yu-Jia Shiah
+  - Susmita G. Ramanand
+  - Michael J. Clarkson
+  - Anne Nguyen
+  - Shadrielle Melijah G. Espiritu
+  - Ryan Stuchbery
+  - Richard Jovelin
+  - Vincent Huang
+  - Connor Bell
+  - "Edward O\u2019Connor"
+  - Patrick J. McCoy
+  - Christopher M. Lalansingh
+  - Marek Cmero
+  - Adriana Salcedo
+  - Eva K.F. Chan
+  - Lydia Y. Liu
+  - Phillip D. Stricker
+  - Vinayak Bhandari
+  - Riana M.S. Bornman
+  - Dorota H.S. Sendorek
+  - Andrew Lonie
+  - Stephenie D. Prokopec
+  - Michael Fraser
+  - Justin S. Peters
+  - Adrien Foucal
+  - Shingai B.A. Mutambirwa
+  - Lachlan Mcintosh
+  - "Mich\xE8le Orain"
+  - Matthew Wakefield
+  - "Val\xE9rie Picard"
+  - Daniel J. Park
+  - "H\xE9l\xE8ne Hovington"
+  - Michael Kerger
+  - Alain Bergeron
+  - Veronica Sabelnykova
+  - Ji-Heui Seo
+  - Mark M. Pomerantz
+  - Noah Zaitlen
+  - Sebastian M. Waszak
+  - Alexander Gusev
+  - Louis Lacombe
+  - Yves Fradet
+  - Andrew Ryan
+  - Amar U. Kishan
+  - Martijn P. Lolkema
+  - Joachim Weischenfeldt
+  - "Bernard T\xEAtu"
+  - Anthony J. Costello
+  - Vanessa M. Hayes
+  - Rayjean J. Hung
+  - Housheng H. He
+  - John D. McPherson
+  - Bogdan Pasaniuc
+  - Theodorus van der Kwast
+  - Anthony T. Papenfuss
+  - Matthew L. Freedman
+  - Bernard J. Pope
+  - Robert G. Bristow
+  - Ram S. Mani
+  - Niall M. Corcoran
+  - "J\xFCri Reimand"
+  - Christopher M. Hovens
+  - Paul C. Boutros
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-05-02'
+  link: https://doi.org/g9hcnn
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2159-8290.28918288
+  title: Supplementary Table 2 from The Germline and Somatic Origins of Prostate Cancer
+    Heterogeneity
+  authors:
+  - Takafumi N. Yamaguchi
+  - Kathleen E. Houlahan
+  - Helen Zhu
+  - Natalie Kurganovs
+  - Julie Livingstone
+  - Natalie S. Fox
+  - Jiapei Yuan
+  - Jocelyn Sietsma Penington
+  - Chol-Hee Jung
+  - Tommer Schwarz
+  - Weerachai Jaratlerdsiri
+  - Job van Riet
+  - Peter Georgeson
+  - Stefano Mangiola
+  - Kodi Taraszka
+  - Robert Lesurf
+  - Jue Jiang
+  - Ken Chow
+  - Lawrence E. Heisler
+  - Yu-Jia Shiah
+  - Susmita G. Ramanand
+  - Michael J. Clarkson
+  - Anne Nguyen
+  - Shadrielle Melijah G. Espiritu
+  - Ryan Stuchbery
+  - Richard Jovelin
+  - Vincent Huang
+  - Connor Bell
+  - "Edward O\u2019Connor"
+  - Patrick J. McCoy
+  - Christopher M. Lalansingh
+  - Marek Cmero
+  - Adriana Salcedo
+  - Eva K.F. Chan
+  - Lydia Y. Liu
+  - Phillip D. Stricker
+  - Vinayak Bhandari
+  - Riana M.S. Bornman
+  - Dorota H.S. Sendorek
+  - Andrew Lonie
+  - Stephenie D. Prokopec
+  - Michael Fraser
+  - Justin S. Peters
+  - Adrien Foucal
+  - Shingai B.A. Mutambirwa
+  - Lachlan Mcintosh
+  - "Mich\xE8le Orain"
+  - Matthew Wakefield
+  - "Val\xE9rie Picard"
+  - Daniel J. Park
+  - "H\xE9l\xE8ne Hovington"
+  - Michael Kerger
+  - Alain Bergeron
+  - Veronica Sabelnykova
+  - Ji-Heui Seo
+  - Mark M. Pomerantz
+  - Noah Zaitlen
+  - Sebastian M. Waszak
+  - Alexander Gusev
+  - Louis Lacombe
+  - Yves Fradet
+  - Andrew Ryan
+  - Amar U. Kishan
+  - Martijn P. Lolkema
+  - Joachim Weischenfeldt
+  - "Bernard T\xEAtu"
+  - Anthony J. Costello
+  - Vanessa M. Hayes
+  - Rayjean J. Hung
+  - Housheng H. He
+  - John D. McPherson
+  - Bogdan Pasaniuc
+  - Theodorus van der Kwast
+  - Anthony T. Papenfuss
+  - Matthew L. Freedman
+  - Bernard J. Pope
+  - Robert G. Bristow
+  - Ram S. Mani
+  - Niall M. Corcoran
+  - "J\xFCri Reimand"
+  - Christopher M. Hovens
+  - Paul C. Boutros
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-05-02'
+  link: https://doi.org/g9hcnp
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2159-8290.28918285
+  title: Supplementary Table 3 from The Germline and Somatic Origins of Prostate Cancer
+    Heterogeneity
+  authors:
+  - Takafumi N. Yamaguchi
+  - Kathleen E. Houlahan
+  - Helen Zhu
+  - Natalie Kurganovs
+  - Julie Livingstone
+  - Natalie S. Fox
+  - Jiapei Yuan
+  - Jocelyn Sietsma Penington
+  - Chol-Hee Jung
+  - Tommer Schwarz
+  - Weerachai Jaratlerdsiri
+  - Job van Riet
+  - Peter Georgeson
+  - Stefano Mangiola
+  - Kodi Taraszka
+  - Robert Lesurf
+  - Jue Jiang
+  - Ken Chow
+  - Lawrence E. Heisler
+  - Yu-Jia Shiah
+  - Susmita G. Ramanand
+  - Michael J. Clarkson
+  - Anne Nguyen
+  - Shadrielle Melijah G. Espiritu
+  - Ryan Stuchbery
+  - Richard Jovelin
+  - Vincent Huang
+  - Connor Bell
+  - "Edward O\u2019Connor"
+  - Patrick J. McCoy
+  - Christopher M. Lalansingh
+  - Marek Cmero
+  - Adriana Salcedo
+  - Eva K.F. Chan
+  - Lydia Y. Liu
+  - Phillip D. Stricker
+  - Vinayak Bhandari
+  - Riana M.S. Bornman
+  - Dorota H.S. Sendorek
+  - Andrew Lonie
+  - Stephenie D. Prokopec
+  - Michael Fraser
+  - Justin S. Peters
+  - Adrien Foucal
+  - Shingai B.A. Mutambirwa
+  - Lachlan Mcintosh
+  - "Mich\xE8le Orain"
+  - Matthew Wakefield
+  - "Val\xE9rie Picard"
+  - Daniel J. Park
+  - "H\xE9l\xE8ne Hovington"
+  - Michael Kerger
+  - Alain Bergeron
+  - Veronica Sabelnykova
+  - Ji-Heui Seo
+  - Mark M. Pomerantz
+  - Noah Zaitlen
+  - Sebastian M. Waszak
+  - Alexander Gusev
+  - Louis Lacombe
+  - Yves Fradet
+  - Andrew Ryan
+  - Amar U. Kishan
+  - Martijn P. Lolkema
+  - Joachim Weischenfeldt
+  - "Bernard T\xEAtu"
+  - Anthony J. Costello
+  - Vanessa M. Hayes
+  - Rayjean J. Hung
+  - Housheng H. He
+  - John D. McPherson
+  - Bogdan Pasaniuc
+  - Theodorus van der Kwast
+  - Anthony T. Papenfuss
+  - Matthew L. Freedman
+  - Bernard J. Pope
+  - Robert G. Bristow
+  - Ram S. Mani
+  - Niall M. Corcoran
+  - "J\xFCri Reimand"
+  - Christopher M. Hovens
+  - Paul C. Boutros
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-05-02'
+  link: https://doi.org/g9hcnq
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2159-8290.28918282
+  title: Supplementary Table 4 from The Germline and Somatic Origins of Prostate Cancer
+    Heterogeneity
+  authors:
+  - Takafumi N. Yamaguchi
+  - Kathleen E. Houlahan
+  - Helen Zhu
+  - Natalie Kurganovs
+  - Julie Livingstone
+  - Natalie S. Fox
+  - Jiapei Yuan
+  - Jocelyn Sietsma Penington
+  - Chol-Hee Jung
+  - Tommer Schwarz
+  - Weerachai Jaratlerdsiri
+  - Job van Riet
+  - Peter Georgeson
+  - Stefano Mangiola
+  - Kodi Taraszka
+  - Robert Lesurf
+  - Jue Jiang
+  - Ken Chow
+  - Lawrence E. Heisler
+  - Yu-Jia Shiah
+  - Susmita G. Ramanand
+  - Michael J. Clarkson
+  - Anne Nguyen
+  - Shadrielle Melijah G. Espiritu
+  - Ryan Stuchbery
+  - Richard Jovelin
+  - Vincent Huang
+  - Connor Bell
+  - "Edward O\u2019Connor"
+  - Patrick J. McCoy
+  - Christopher M. Lalansingh
+  - Marek Cmero
+  - Adriana Salcedo
+  - Eva K.F. Chan
+  - Lydia Y. Liu
+  - Phillip D. Stricker
+  - Vinayak Bhandari
+  - Riana M.S. Bornman
+  - Dorota H.S. Sendorek
+  - Andrew Lonie
+  - Stephenie D. Prokopec
+  - Michael Fraser
+  - Justin S. Peters
+  - Adrien Foucal
+  - Shingai B.A. Mutambirwa
+  - Lachlan Mcintosh
+  - "Mich\xE8le Orain"
+  - Matthew Wakefield
+  - "Val\xE9rie Picard"
+  - Daniel J. Park
+  - "H\xE9l\xE8ne Hovington"
+  - Michael Kerger
+  - Alain Bergeron
+  - Veronica Sabelnykova
+  - Ji-Heui Seo
+  - Mark M. Pomerantz
+  - Noah Zaitlen
+  - Sebastian M. Waszak
+  - Alexander Gusev
+  - Louis Lacombe
+  - Yves Fradet
+  - Andrew Ryan
+  - Amar U. Kishan
+  - Martijn P. Lolkema
+  - Joachim Weischenfeldt
+  - "Bernard T\xEAtu"
+  - Anthony J. Costello
+  - Vanessa M. Hayes
+  - Rayjean J. Hung
+  - Housheng H. He
+  - John D. McPherson
+  - Bogdan Pasaniuc
+  - Theodorus van der Kwast
+  - Anthony T. Papenfuss
+  - Matthew L. Freedman
+  - Bernard J. Pope
+  - Robert G. Bristow
+  - Ram S. Mani
+  - Niall M. Corcoran
+  - "J\xFCri Reimand"
+  - Christopher M. Hovens
+  - Paul C. Boutros
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-05-02'
+  link: https://doi.org/g9hcnr
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2159-8290.28918279
+  title: Supplementary Table 5 from The Germline and Somatic Origins of Prostate Cancer
+    Heterogeneity
+  authors:
+  - Takafumi N. Yamaguchi
+  - Kathleen E. Houlahan
+  - Helen Zhu
+  - Natalie Kurganovs
+  - Julie Livingstone
+  - Natalie S. Fox
+  - Jiapei Yuan
+  - Jocelyn Sietsma Penington
+  - Chol-Hee Jung
+  - Tommer Schwarz
+  - Weerachai Jaratlerdsiri
+  - Job van Riet
+  - Peter Georgeson
+  - Stefano Mangiola
+  - Kodi Taraszka
+  - Robert Lesurf
+  - Jue Jiang
+  - Ken Chow
+  - Lawrence E. Heisler
+  - Yu-Jia Shiah
+  - Susmita G. Ramanand
+  - Michael J. Clarkson
+  - Anne Nguyen
+  - Shadrielle Melijah G. Espiritu
+  - Ryan Stuchbery
+  - Richard Jovelin
+  - Vincent Huang
+  - Connor Bell
+  - "Edward O\u2019Connor"
+  - Patrick J. McCoy
+  - Christopher M. Lalansingh
+  - Marek Cmero
+  - Adriana Salcedo
+  - Eva K.F. Chan
+  - Lydia Y. Liu
+  - Phillip D. Stricker
+  - Vinayak Bhandari
+  - Riana M.S. Bornman
+  - Dorota H.S. Sendorek
+  - Andrew Lonie
+  - Stephenie D. Prokopec
+  - Michael Fraser
+  - Justin S. Peters
+  - Adrien Foucal
+  - Shingai B.A. Mutambirwa
+  - Lachlan Mcintosh
+  - "Mich\xE8le Orain"
+  - Matthew Wakefield
+  - "Val\xE9rie Picard"
+  - Daniel J. Park
+  - "H\xE9l\xE8ne Hovington"
+  - Michael Kerger
+  - Alain Bergeron
+  - Veronica Sabelnykova
+  - Ji-Heui Seo
+  - Mark M. Pomerantz
+  - Noah Zaitlen
+  - Sebastian M. Waszak
+  - Alexander Gusev
+  - Louis Lacombe
+  - Yves Fradet
+  - Andrew Ryan
+  - Amar U. Kishan
+  - Martijn P. Lolkema
+  - Joachim Weischenfeldt
+  - "Bernard T\xEAtu"
+  - Anthony J. Costello
+  - Vanessa M. Hayes
+  - Rayjean J. Hung
+  - Housheng H. He
+  - John D. McPherson
+  - Bogdan Pasaniuc
+  - Theodorus van der Kwast
+  - Anthony T. Papenfuss
+  - Matthew L. Freedman
+  - Bernard J. Pope
+  - Robert G. Bristow
+  - Ram S. Mani
+  - Niall M. Corcoran
+  - "J\xFCri Reimand"
+  - Christopher M. Hovens
+  - Paul C. Boutros
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-05-02'
+  link: https://doi.org/g9hcns
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2159-8290.28918276
+  title: Supplementary Table 6 from The Germline and Somatic Origins of Prostate Cancer
+    Heterogeneity
+  authors:
+  - Takafumi N. Yamaguchi
+  - Kathleen E. Houlahan
+  - Helen Zhu
+  - Natalie Kurganovs
+  - Julie Livingstone
+  - Natalie S. Fox
+  - Jiapei Yuan
+  - Jocelyn Sietsma Penington
+  - Chol-Hee Jung
+  - Tommer Schwarz
+  - Weerachai Jaratlerdsiri
+  - Job van Riet
+  - Peter Georgeson
+  - Stefano Mangiola
+  - Kodi Taraszka
+  - Robert Lesurf
+  - Jue Jiang
+  - Ken Chow
+  - Lawrence E. Heisler
+  - Yu-Jia Shiah
+  - Susmita G. Ramanand
+  - Michael J. Clarkson
+  - Anne Nguyen
+  - Shadrielle Melijah G. Espiritu
+  - Ryan Stuchbery
+  - Richard Jovelin
+  - Vincent Huang
+  - Connor Bell
+  - "Edward O\u2019Connor"
+  - Patrick J. McCoy
+  - Christopher M. Lalansingh
+  - Marek Cmero
+  - Adriana Salcedo
+  - Eva K.F. Chan
+  - Lydia Y. Liu
+  - Phillip D. Stricker
+  - Vinayak Bhandari
+  - Riana M.S. Bornman
+  - Dorota H.S. Sendorek
+  - Andrew Lonie
+  - Stephenie D. Prokopec
+  - Michael Fraser
+  - Justin S. Peters
+  - Adrien Foucal
+  - Shingai B.A. Mutambirwa
+  - Lachlan Mcintosh
+  - "Mich\xE8le Orain"
+  - Matthew Wakefield
+  - "Val\xE9rie Picard"
+  - Daniel J. Park
+  - "H\xE9l\xE8ne Hovington"
+  - Michael Kerger
+  - Alain Bergeron
+  - Veronica Sabelnykova
+  - Ji-Heui Seo
+  - Mark M. Pomerantz
+  - Noah Zaitlen
+  - Sebastian M. Waszak
+  - Alexander Gusev
+  - Louis Lacombe
+  - Yves Fradet
+  - Andrew Ryan
+  - Amar U. Kishan
+  - Martijn P. Lolkema
+  - Joachim Weischenfeldt
+  - "Bernard T\xEAtu"
+  - Anthony J. Costello
+  - Vanessa M. Hayes
+  - Rayjean J. Hung
+  - Housheng H. He
+  - John D. McPherson
+  - Bogdan Pasaniuc
+  - Theodorus van der Kwast
+  - Anthony T. Papenfuss
+  - Matthew L. Freedman
+  - Bernard J. Pope
+  - Robert G. Bristow
+  - Ram S. Mani
+  - Niall M. Corcoran
+  - "J\xFCri Reimand"
+  - Christopher M. Hovens
+  - Paul C. Boutros
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-05-02'
+  link: https://doi.org/g9hcnt
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2159-8290.28918270
+  title: Supplementary Table 7 from The Germline and Somatic Origins of Prostate Cancer
+    Heterogeneity
+  authors:
+  - Takafumi N. Yamaguchi
+  - Kathleen E. Houlahan
+  - Helen Zhu
+  - Natalie Kurganovs
+  - Julie Livingstone
+  - Natalie S. Fox
+  - Jiapei Yuan
+  - Jocelyn Sietsma Penington
+  - Chol-Hee Jung
+  - Tommer Schwarz
+  - Weerachai Jaratlerdsiri
+  - Job van Riet
+  - Peter Georgeson
+  - Stefano Mangiola
+  - Kodi Taraszka
+  - Robert Lesurf
+  - Jue Jiang
+  - Ken Chow
+  - Lawrence E. Heisler
+  - Yu-Jia Shiah
+  - Susmita G. Ramanand
+  - Michael J. Clarkson
+  - Anne Nguyen
+  - Shadrielle Melijah G. Espiritu
+  - Ryan Stuchbery
+  - Richard Jovelin
+  - Vincent Huang
+  - Connor Bell
+  - "Edward O\u2019Connor"
+  - Patrick J. McCoy
+  - Christopher M. Lalansingh
+  - Marek Cmero
+  - Adriana Salcedo
+  - Eva K.F. Chan
+  - Lydia Y. Liu
+  - Phillip D. Stricker
+  - Vinayak Bhandari
+  - Riana M.S. Bornman
+  - Dorota H.S. Sendorek
+  - Andrew Lonie
+  - Stephenie D. Prokopec
+  - Michael Fraser
+  - Justin S. Peters
+  - Adrien Foucal
+  - Shingai B.A. Mutambirwa
+  - Lachlan Mcintosh
+  - "Mich\xE8le Orain"
+  - Matthew Wakefield
+  - "Val\xE9rie Picard"
+  - Daniel J. Park
+  - "H\xE9l\xE8ne Hovington"
+  - Michael Kerger
+  - Alain Bergeron
+  - Veronica Sabelnykova
+  - Ji-Heui Seo
+  - Mark M. Pomerantz
+  - Noah Zaitlen
+  - Sebastian M. Waszak
+  - Alexander Gusev
+  - Louis Lacombe
+  - Yves Fradet
+  - Andrew Ryan
+  - Amar U. Kishan
+  - Martijn P. Lolkema
+  - Joachim Weischenfeldt
+  - "Bernard T\xEAtu"
+  - Anthony J. Costello
+  - Vanessa M. Hayes
+  - Rayjean J. Hung
+  - Housheng H. He
+  - John D. McPherson
+  - Bogdan Pasaniuc
+  - Theodorus van der Kwast
+  - Anthony T. Papenfuss
+  - Matthew L. Freedman
+  - Bernard J. Pope
+  - Robert G. Bristow
+  - Ram S. Mani
+  - Niall M. Corcoran
+  - "J\xFCri Reimand"
+  - Christopher M. Hovens
+  - Paul C. Boutros
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-05-02'
+  link: https://doi.org/g9hcnv
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2159-8290.28918267
+  title: Supplementary Table 8 from The Germline and Somatic Origins of Prostate Cancer
+    Heterogeneity
+  authors:
+  - Takafumi N. Yamaguchi
+  - Kathleen E. Houlahan
+  - Helen Zhu
+  - Natalie Kurganovs
+  - Julie Livingstone
+  - Natalie S. Fox
+  - Jiapei Yuan
+  - Jocelyn Sietsma Penington
+  - Chol-Hee Jung
+  - Tommer Schwarz
+  - Weerachai Jaratlerdsiri
+  - Job van Riet
+  - Peter Georgeson
+  - Stefano Mangiola
+  - Kodi Taraszka
+  - Robert Lesurf
+  - Jue Jiang
+  - Ken Chow
+  - Lawrence E. Heisler
+  - Yu-Jia Shiah
+  - Susmita G. Ramanand
+  - Michael J. Clarkson
+  - Anne Nguyen
+  - Shadrielle Melijah G. Espiritu
+  - Ryan Stuchbery
+  - Richard Jovelin
+  - Vincent Huang
+  - Connor Bell
+  - "Edward O\u2019Connor"
+  - Patrick J. McCoy
+  - Christopher M. Lalansingh
+  - Marek Cmero
+  - Adriana Salcedo
+  - Eva K.F. Chan
+  - Lydia Y. Liu
+  - Phillip D. Stricker
+  - Vinayak Bhandari
+  - Riana M.S. Bornman
+  - Dorota H.S. Sendorek
+  - Andrew Lonie
+  - Stephenie D. Prokopec
+  - Michael Fraser
+  - Justin S. Peters
+  - Adrien Foucal
+  - Shingai B.A. Mutambirwa
+  - Lachlan Mcintosh
+  - "Mich\xE8le Orain"
+  - Matthew Wakefield
+  - "Val\xE9rie Picard"
+  - Daniel J. Park
+  - "H\xE9l\xE8ne Hovington"
+  - Michael Kerger
+  - Alain Bergeron
+  - Veronica Sabelnykova
+  - Ji-Heui Seo
+  - Mark M. Pomerantz
+  - Noah Zaitlen
+  - Sebastian M. Waszak
+  - Alexander Gusev
+  - Louis Lacombe
+  - Yves Fradet
+  - Andrew Ryan
+  - Amar U. Kishan
+  - Martijn P. Lolkema
+  - Joachim Weischenfeldt
+  - "Bernard T\xEAtu"
+  - Anthony J. Costello
+  - Vanessa M. Hayes
+  - Rayjean J. Hung
+  - Housheng H. He
+  - John D. McPherson
+  - Bogdan Pasaniuc
+  - Theodorus van der Kwast
+  - Anthony T. Papenfuss
+  - Matthew L. Freedman
+  - Bernard J. Pope
+  - Robert G. Bristow
+  - Ram S. Mani
+  - Niall M. Corcoran
+  - "J\xFCri Reimand"
+  - Christopher M. Hovens
+  - Paul C. Boutros
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-05-02'
+  link: https://doi.org/g9hcnw
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2159-8290.28918264
+  title: Supplementary Table 9 from The Germline and Somatic Origins of Prostate Cancer
+    Heterogeneity
+  authors:
+  - Takafumi N. Yamaguchi
+  - Kathleen E. Houlahan
+  - Helen Zhu
+  - Natalie Kurganovs
+  - Julie Livingstone
+  - Natalie S. Fox
+  - Jiapei Yuan
+  - Jocelyn Sietsma Penington
+  - Chol-Hee Jung
+  - Tommer Schwarz
+  - Weerachai Jaratlerdsiri
+  - Job van Riet
+  - Peter Georgeson
+  - Stefano Mangiola
+  - Kodi Taraszka
+  - Robert Lesurf
+  - Jue Jiang
+  - Ken Chow
+  - Lawrence E. Heisler
+  - Yu-Jia Shiah
+  - Susmita G. Ramanand
+  - Michael J. Clarkson
+  - Anne Nguyen
+  - Shadrielle Melijah G. Espiritu
+  - Ryan Stuchbery
+  - Richard Jovelin
+  - Vincent Huang
+  - Connor Bell
+  - "Edward O\u2019Connor"
+  - Patrick J. McCoy
+  - Christopher M. Lalansingh
+  - Marek Cmero
+  - Adriana Salcedo
+  - Eva K.F. Chan
+  - Lydia Y. Liu
+  - Phillip D. Stricker
+  - Vinayak Bhandari
+  - Riana M.S. Bornman
+  - Dorota H.S. Sendorek
+  - Andrew Lonie
+  - Stephenie D. Prokopec
+  - Michael Fraser
+  - Justin S. Peters
+  - Adrien Foucal
+  - Shingai B.A. Mutambirwa
+  - Lachlan Mcintosh
+  - "Mich\xE8le Orain"
+  - Matthew Wakefield
+  - "Val\xE9rie Picard"
+  - Daniel J. Park
+  - "H\xE9l\xE8ne Hovington"
+  - Michael Kerger
+  - Alain Bergeron
+  - Veronica Sabelnykova
+  - Ji-Heui Seo
+  - Mark M. Pomerantz
+  - Noah Zaitlen
+  - Sebastian M. Waszak
+  - Alexander Gusev
+  - Louis Lacombe
+  - Yves Fradet
+  - Andrew Ryan
+  - Amar U. Kishan
+  - Martijn P. Lolkema
+  - Joachim Weischenfeldt
+  - "Bernard T\xEAtu"
+  - Anthony J. Costello
+  - Vanessa M. Hayes
+  - Rayjean J. Hung
+  - Housheng H. He
+  - John D. McPherson
+  - Bogdan Pasaniuc
+  - Theodorus van der Kwast
+  - Anthony T. Papenfuss
+  - Matthew L. Freedman
+  - Bernard J. Pope
+  - Robert G. Bristow
+  - Ram S. Mani
+  - Niall M. Corcoran
+  - "J\xFCri Reimand"
+  - Christopher M. Hovens
+  - Paul C. Boutros
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-05-02'
+  link: https://doi.org/g9hcnx
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2159-8290.CD-23-0882
+  title: The Germline and Somatic Origins of Prostate Cancer Heterogeneity
+  authors:
+  - Takafumi N. Yamaguchi
+  - Kathleen E. Houlahan
+  - Helen Zhu
+  - Natalie Kurganovs
+  - Julie Livingstone
+  - Natalie S. Fox
+  - Jiapei Yuan
+  - Jocelyn Sietsma Penington
+  - Chol-Hee Jung
+  - Tommer Schwarz
+  - Weerachai Jaratlerdsiri
+  - Job van Riet
+  - Peter Georgeson
+  - Stefano Mangiola
+  - Kodi Taraszka
+  - Robert Lesurf
+  - Jue Jiang
+  - Ken Chow
+  - Lawrence E. Heisler
+  - Yu-Jia Shiah
+  - Susmita G. Ramanand
+  - Michael J. Clarkson
+  - Anne Nguyen
+  - Shadrielle Melijah G. Espiritu
+  - Ryan Stuchbery
+  - Richard Jovelin
+  - Vincent Huang
+  - Connor Bell
+  - "Edward O\u2019Connor"
+  - Patrick J. McCoy
+  - Christopher M. Lalansingh
+  - Marek Cmero
+  - Adriana Salcedo
+  - Eva K.F. Chan
+  - Lydia Y. Liu
+  - Phillip D. Stricker
+  - Vinayak Bhandari
+  - Riana M.S. Bornman
+  - Dorota H.S. Sendorek
+  - Andrew Lonie
+  - Stephenie D. Prokopec
+  - Michael Fraser
+  - Justin S. Peters
+  - Adrien Foucal
+  - Shingai B.A. Mutambirwa
+  - Lachlan Mcintosh
+  - "Mich\xE8le Orain"
+  - Matthew Wakefield
+  - "Val\xE9rie Picard"
+  - Daniel J. Park
+  - "H\xE9l\xE8ne Hovington"
+  - Michael Kerger
+  - Alain Bergeron
+  - Veronica Sabelnykova
+  - Ji-Heui Seo
+  - Mark M. Pomerantz
+  - Noah Zaitlen
+  - Sebastian M. Waszak
+  - Alexander Gusev
+  - Louis Lacombe
+  - Yves Fradet
+  - Andrew Ryan
+  - Amar U. Kishan
+  - Martijn P. Lolkema
+  - Joachim Weischenfeldt
+  - "Bernard T\xEAtu"
+  - Anthony J. Costello
+  - Vanessa M. Hayes
+  - Rayjean J. Hung
+  - Housheng H. He
+  - John D. McPherson
+  - Bogdan Pasaniuc
+  - Theodorus van der Kwast
+  - Anthony T. Papenfuss
+  - Matthew L. Freedman
+  - Bernard J. Pope
+  - Robert G. Bristow
+  - Ram S. Mani
+  - Niall M. Corcoran
+  - "J\xFCri Reimand"
+  - Christopher M. Hovens
+  - Paul C. Boutros
+  publisher: Cancer Discovery
+  date: '2025-02-13'
+  link: https://doi.org/g848qp
+  orcid: 0000-0002-2273-2099
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41586-024-08377-x
   title: Complex rearrangements fuel ER+ and HER2+ breast tumours
   authors:

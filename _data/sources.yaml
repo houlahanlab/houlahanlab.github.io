@@ -17,8 +17,99 @@
 - id: doi:10.1093/jnci/djab052
   remove: true
 
+- id: doi:10.1158/2159-8290.28918264
+  remove: true
+
+- id: doi:10.1158/2159-8290.28918267
+  remove: true
+
+- id: doi:10.1158/2159-8290.28918270
+  remove: true
+
+- id: doi:10.1158/2159-8290.28918276
+  remove: true
+
+- id: doi:10.1158/2159-8290.28918279
+  remove: true
+
+- id: doi:10.1158/2159-8290.28918282
+  remove: true
+
+- id: doi:10.1158/2159-8290.28918285
+  remove: true
+
+- id: doi:10.1158/2159-8290.c.7799002
+  remove: true
+
+- id: doi:10.1158/2159-8290.28918330
+  remove: true
+
+- id: doi:10.1158/2159-8290.28918327
+  remove: true
+
+- id: doi:10.1158/2159-8290.28918321
+  remove: true
+
+- id: doi:10.1158/2159-8290.28918315
+  remove: true
+
+- id: doi:10.1158/2159-8290.28918315
+  remove: true
+
+- id: doi:10.1158/2159-8290.28918312
+  remove: true
+
+- id: doi:10.1158/2159-8290.28918324
+  remove: true
+
+- id: doi:10.1158/2159-8290.28918306
+  remove: true
+
+- id: doi:10.1158/2159-8290.28918303
+  remove: true
+
+- id: doi:10.1158/2159-8290.28918300
+  remove: true
+
+- id: doi:10.1158/2159-8290.28918297
+  remove: true
+
+- id: doi:10.1158/2159-8290.28918288
+  remove: true
+
+- id: pmid:34019808
+  remove: true
+
 - id: pmid:25984700
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnmeth.3407/MediaObjects/41592_2015_Article_BFnmeth3407_Fig1_HTML.jpg?as=webp
 
 - id: pmid:30685078
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0302283818310443-gr1.jpg
+
+- id: doi:10.1093/jnci/djad001
+  image: images/djad001f1.jpeg
+
+- id: doi:10.1158/2159-8290.CD-23-0882
+  image: images/cd-23-0882fig6.png
+
+- id: doi:10.1038/s41586-024-08377-x
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-024-08377-x/MediaObjects/41586_2024_8377_Fig5_HTML.png?as=webp
+
+- id: doi:10.1038/s41588-025-02128-y
+  type: paper
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-025-02128-y/MediaObjects/41588_2025_2128_Fig1_HTML.png?as=webp
+
+- id: pmid:37258665
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06102-8/MediaObjects/41586_2023_6102_Fig1_HTML.png?as=webp
+
+- id: doi:10.1016/j.ccell.2021.04.018
+  image: images/1-s2.0-S1535610821002269-gr1.jpg
+
+- id: pmid:34068856 
+  type: paper
+
+- id: pmid:33741908 
+  type: paper
+
+- id: pmid:33769538  
+  type: paper

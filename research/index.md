@@ -13,6 +13,8 @@ The Houlahan lab integrates large-scale, diverse tumour multi-omic data with sta
 
 ## Highlighted
 
+{% include citation.html lookup="doi:10.1038/s41586-024-08377-x" style="rich" %}
+
 {% include citation.html lookup="doi:10.1126/science.adh8697" style="rich" %}
 
 {% include citation.html lookup="doi:10.1093/jnci/djad001" style="rich" %}

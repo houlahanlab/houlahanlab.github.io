@@ -1,5 +1,97 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1158/2159-8290.CD-23-0882
+  title: The Germline and Somatic Origins of Prostate Cancer Heterogeneity
+  authors:
+  - Takafumi N. Yamaguchi
+  - Kathleen E. Houlahan
+  - Helen Zhu
+  - Natalie Kurganovs
+  - Julie Livingstone
+  - Natalie S. Fox
+  - Jiapei Yuan
+  - Jocelyn Sietsma Penington
+  - Chol-Hee Jung
+  - Tommer Schwarz
+  - Weerachai Jaratlerdsiri
+  - Job van Riet
+  - Peter Georgeson
+  - Stefano Mangiola
+  - Kodi Taraszka
+  - Robert Lesurf
+  - Jue Jiang
+  - Ken Chow
+  - Lawrence E. Heisler
+  - Yu-Jia Shiah
+  - Susmita G. Ramanand
+  - Michael J. Clarkson
+  - Anne Nguyen
+  - Shadrielle Melijah G. Espiritu
+  - Ryan Stuchbery
+  - Richard Jovelin
+  - Vincent Huang
+  - Connor Bell
+  - "Edward O\u2019Connor"
+  - Patrick J. McCoy
+  - Christopher M. Lalansingh
+  - Marek Cmero
+  - Adriana Salcedo
+  - Eva K.F. Chan
+  - Lydia Y. Liu
+  - Phillip D. Stricker
+  - Vinayak Bhandari
+  - Riana M.S. Bornman
+  - Dorota H.S. Sendorek
+  - Andrew Lonie
+  - Stephenie D. Prokopec
+  - Michael Fraser
+  - Justin S. Peters
+  - Adrien Foucal
+  - Shingai B.A. Mutambirwa
+  - Lachlan Mcintosh
+  - "Mich\xE8le Orain"
+  - Matthew Wakefield
+  - "Val\xE9rie Picard"
+  - Daniel J. Park
+  - "H\xE9l\xE8ne Hovington"
+  - Michael Kerger
+  - Alain Bergeron
+  - Veronica Sabelnykova
+  - Ji-Heui Seo
+  - Mark M. Pomerantz
+  - Noah Zaitlen
+  - Sebastian M. Waszak
+  - Alexander Gusev
+  - Louis Lacombe
+  - Yves Fradet
+  - Andrew Ryan
+  - Amar U. Kishan
+  - Martijn P. Lolkema
+  - Joachim Weischenfeldt
+  - "Bernard T\xEAtu"
+  - Anthony J. Costello
+  - Vanessa M. Hayes
+  - Rayjean J. Hung
+  - Housheng H. He
+  - John D. McPherson
+  - Bogdan Pasaniuc
+  - Theodorus van der Kwast
+  - Anthony T. Papenfuss
+  - Matthew L. Freedman
+  - Bernard J. Pope
+  - Robert G. Bristow
+  - Ram S. Mani
+  - Niall M. Corcoran
+  - "J\xFCri Reimand"
+  - Christopher M. Hovens
+  - Paul C. Boutros
+  publisher: Cancer Discovery
+  date: '2025-02-13'
+  link: https://doi.org/g848qp
+  orcid: 0000-0002-2273-2099
+  plugin: sources.py
+  file: sources.yaml
+  image: images/cd-23-0882fig6.png
 - id: doi:10.1038/s41586-024-08377-x
   title: Complex rearrangements fuel ER+ and HER2+ breast tumours
   authors:
@@ -17,8 +109,9 @@
   date: '2025-01-08'
   link: https://doi.org/g8zjtk
   orcid: 0000-0002-2273-2099
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-024-08377-x/MediaObjects/41586_2024_8377_Fig5_HTML.png?as=webp
 - id: doi:10.1158/2159-8290.CD-24-0774
   title: Insights on Future Directions in Cancer Research from the AACR NextGen Stars
   authors:
@@ -111,8 +204,9 @@
   date: '2023-05-31'
   link: https://www.ncbi.nlm.nih.gov/pubmed/37258665
   orcid: 0000-0002-2273-2099
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06102-8/MediaObjects/41586_2023_6102_Fig1_HTML.png?as=webp
 - id: doi:10.1093/jnci/djad001
   title: A polygenic two-hit hypothesis for prostate cancer
   authors:
@@ -144,7 +238,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jnci/115/4/10.1093_jnci_djad001/1/m_djad001f1.jpeg?Expires=1723579884&Signature=EVpMm1m5V54KII3wZvf0p4EsYvOOUpcbkhyiE-b5zrhY5J7NPodKzUZaNsylGQdewq5mc-Mrt6SSqiFXsfmErxTBx8yBmiJTmebj4uPPwHO17yDRjj-RY7-jF1qFJmv0ZYVLG8xiB3XF1T-z0aIotb~BDLr-8FVOHwWwScS45~ZXb~Jv~91~qYRZMcOYcWIR17gqYQYhGztXq24ZCHKcx3mJcCDIEee2oB9myspuvzx4z7ICd~eOtywAKCJN-PGuhwk8azM9zIEVXOU-Ze7VsZRra6jZgQ5Gq62MQ9KFfZs8XQmS4ERUoLFKGYKc0ysL36aCPgUeB2W~Y-1CR53r-A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: images/djad001f1.jpeg
 - id: doi:10.1158/2159-8290.CD-22-0027
   title: Prostate Cancer Transcriptomic Regulation by the Interplay of Germline Risk
     Alleles, Somatic Mutations, and 3D Genomic Architecture
@@ -293,17 +387,6 @@
   publisher: Nature communications
   date: '2022-06-27'
   link: https://www.ncbi.nlm.nih.gov/pubmed/35760778
-  orcid: 0000-0002-2273-2099
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:34019808
-  title: A tumor "personality" test to guide therapeutic decision making.
-  authors:
-  - Kathleen E Houlahan
-  - Christina Curtis
-  publisher: Cancer cell
-  date: '2021-05-20'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/34019808
   orcid: 0000-0002-2273-2099
   plugin: orcid.py
   file: orcid.yaml
@@ -956,3 +1039,130 @@
   orcid: 0000-0002-2273-2099
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1038/s41588-025-02128-y
+  title: The landscape of N6-methyladenosine in localized primary prostate cancer
+  authors:
+  - Xin Xu
+  - Helen Zhu
+  - Rupert Hugh-White
+  - Julie Livingstone
+  - Stefan Eng
+  - Nicole Zeltser
+  - Yujuan Wang
+  - Kinga Pajdzik
+  - Sujun Chen
+  - Kathleen E. Houlahan
+  - Wenqin Luo
+  - Shun Liu
+  - Xi Xu
+  - Minzhi Sheng
+  - Wang Yuan Guo
+  - Jaron Arbet
+  - Yuxi Song
+  - Miranda Wang
+  - Yong Zeng
+  - Shiyan Wang
+  - Guanghui Zhu
+  - Tingxiao Gao
+  - Wei Chen
+  - Xinpei Ci
+  - Wenjie Xu
+  - Kexin Xu
+  - Michele Orain
+  - Valerie Picard
+  - Helene Hovington
+  - Alain Bergeron
+  - Louis Lacombe
+  - "Bernard T\xEAtu"
+  - Yves Fradet
+  - Mathieu Lupien
+  - Gong-Hong Wei
+  - Marianne Koritzinsky
+  - Robert G. Bristow
+  - Neil E. Fleshner
+  - Xue Wu
+  - Yang Shao
+  - Chuan He
+  - Alejandro Berlin
+  - Theodorus van der Kwast
+  - Hon Leong
+  - Paul C. Boutros
+  - Housheng Hansen He
+  publisher: Nature Genetics
+  date: '2025-03-24'
+  link: https://doi.org/g9mffv
+  type: paper
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-025-02128-y/MediaObjects/41588_2025_2128_Fig1_HTML.png?as=webp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ccell.2021.04.018
+  title: "A tumor \u201Cpersonality\u201D test to guide therapeutic decision making"
+  authors:
+  - Kathleen E. Houlahan
+  - Christina Curtis
+  publisher: Cancer Cell
+  date: '2021-06-01'
+  link: https://doi.org/gj6fjh
+  image: images/1-s2.0-S1535610821002269-gr1.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: pmid:34068856
+  title: Copy Number Profiles of Prostate Cancer in Men of Middle Eastern Ancestry.
+  authors:
+  - Alia Albawardi
+  - Julie Livingstone
+  - Saeeda Almarzooqi
+  - Nallasivam Palanisamy
+  - Kathleen E Houlahan
+  - Aktham Adnan Ahmad Awwad
+  - Ramy A Abdelsalam
+  - Paul C Boutros
+  - Tarek A Bismar
+  publisher: Cancers
+  date: '2021-05-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34068856
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: pmid:33741908
+  title: CRISPRi screens reveal a DNA methylation-mediated 3D genome dependent causal
+    mechanism in prostate cancer.
+  authors:
+  - Musaddeque Ahmed
+  - Fraser Soares
+  - Ji-Han Xia
+  - Yue Yang
+  - Jing Li
+  - Haiyang Guo
+  - Peiran Su
+  - Yijun Tian
+  - Hyung Joo Lee
+  - Miranda Wang
+  - Nayeema Akhtar
+  - Kathleen E Houlahan
+  - Almudena Bosch
+  - Stanley Zhou
+  - Parisa Mazrooei
+  - Junjie T Hua
+  - Sujun Chen
+  - Jessica Petricca
+  - Yong Zeng
+  - Alastair Davies
+  - Michael Fraser
+  - David A Quigley
+  - Felix Y Feng
+  - Paul C Boutros
+  - Mathieu Lupien
+  - Amina Zoubeidi
+  - Liang Wang
+  - Martin J Walsh
+  - Ting Wang
+  - Shancheng Ren
+  - Gong-Hong Wei
+  - Housheng Hansen He
+  publisher: Nature communications
+  date: '2021-03-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33741908
+  type: paper
+  plugin: sources.py
+  file: sources.yaml

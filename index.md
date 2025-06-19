@@ -73,7 +73,7 @@ We are highly-motivated, interdiscplinary scientists that sit at the intersectio
 
 {%
   include feature.html
-  image="images/join_us.jpg"
+  image="images/2025_lab_photo.jpg"
   link="team"
   title="Our Team"
   text=text

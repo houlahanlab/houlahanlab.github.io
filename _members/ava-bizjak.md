@@ -1,12 +1,7 @@
 ---
-name: Katie Houlahan
-image: images/katie-houlahan.JPG
-role: pi
-aliases:
-  - Kathleen E Houlahan
-  - Kathleen E. Houlahan
-links:
-  orcid: 0000-0002-2273-2099
+name: Ava Bizjak
+image: images/ava-bizjak.jpg
+role: undergraduate thesis student
 ---
 
-Katie Houlahan is an Assistant Professor in the Department of Biochemistry and Biomedical Sciences (BBS) and a Principal Investigator at the Centre for Discovery in Cancer Research (CDCR) at McMaster University. Katie completed her PhD at the University of Toronto followed by a postdoctoral fellowship at Stanford University. During her training, Katie was awarded both the CIHR Vanier Scholarship and Banting Postdoctoral Fellowship. In 2024, she was named an American Association for Cancer Research (AACR) NextGen Star and received the Gairdner Early Career Investigator Award.
+Ava Bizjak is a fourth-year Biomedical Discovery and Commercialization student at McMaster University. She is currently completing her thesis in the Houlahan lab as an undergraduate research student. Ava is passionate about advancing cancer research and understanding how scientific discoveries can be translated into innovations that improve patient outcomes. In her spare time, she enjoys exercising, exploring personal finance, and taking on leadership roles in her student community.

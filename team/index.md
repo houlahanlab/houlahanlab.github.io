@@ -20,6 +20,7 @@ We are highly-motivated, interdiscplinary scientists that sit at the intersectio
 
 - Farida Abdelmalek - Bioinformatics Co-op Student
 - Alia Chaudhary - Undergraduate Researcher
+- Chau Pham - Bioinformatics Co-op Student
 
 {% include section.html background="images/background.jpg" dark=true %}
 

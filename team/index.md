@@ -19,8 +19,9 @@ We are highly-motivated, interdiscplinary scientists that sit at the intersectio
 ## Alumni
 
 - Farida Abdelmalek - Bioinformatics Co-op Student
+- Ava Bizjak - Undergraduate Researcher
 - Alia Chaudhary - Undergraduate Researcher
-- Chau Pham - Bioinformatics Co-op Student
+- Tracy Hua - Bioinformatics Co-op Student
 
 {% include section.html background="images/background.jpg" dark=true %}
 

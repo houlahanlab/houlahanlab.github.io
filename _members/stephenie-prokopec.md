@@ -1,7 +1,7 @@
 ---
 name: Stephenie Prokopec
 image: images/stephenie-prokopec.JPG
-role: Bioinformatician
+role: bioinformatician
 aliases:
   - Stephenie D Prokopec
   - Stephenie D. Prokopec

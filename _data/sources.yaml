@@ -53,9 +53,6 @@
 - id: doi:10.1158/2159-8290.28918315
   remove: true
 
-- id: doi:10.1158/2159-8290.28918315
-  remove: true
-
 - id: doi:10.1158/2159-8290.28918312
   remove: true
 
@@ -75,6 +72,42 @@
   remove: true
 
 - id: doi:10.1158/2159-8290.28918288
+  remove: true
+
+- id: doi:10.1158/2159-8290.32702236
+  remove: true
+
+- id: doi:10.1158/2159-8290.32702227
+  remove: true
+
+- id: doi:10.1158/2159-8290.32702221
+  remove: true
+
+- id: doi:10.1158/2159-8290.32702215
+  remove: true
+
+- id: doi:10.1158/2159-8290.32702212
+  remove: true
+
+- id: doi:10.1158/2159-8290.32702203
+  remove: true
+
+- id: doi:10.1158/2159-8290.32702197
+  remove: true
+
+- id: doi:10.1158/2159-8290.32702194
+  remove: true
+
+- id: doi:10.1158/2159-8290.32702188
+  remove: true
+
+- id: doi:10.1158/2159-8290.32702182
+  remove: true
+
+- id: doi:10.1158/2159-8290.32702173
+  remove: true
+
+- id: doi:10.1158/2159-8290.32702167
   remove: true
 
 - id: pmid:34019808
@@ -110,3 +143,17 @@
 
 - id: pmid:33741908 
   type: paper
+
+- id: pmid:42102810
+  type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1535610826002187-fx1.jpg
+
+- id: doi:10.1038/s43018-026-01114-5
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs43018-026-01114-5/MediaObjects/43018_2026_1114_Fig1_HTML.png
+
+- id: doi:10.1158/2159-8290.CD-25-0761 
+
+- id: doi:10.1016/j.ebiom.2026.106181
+  image: https://www.thelancet.com/cms/10.1016/j.ebiom.2026.106181/asset/f68cec1a-d0ea-41c1-bc27-9775f7dc5cca/main.assets/gr1_lrg.jpg
+
+- id: pmid:42380764

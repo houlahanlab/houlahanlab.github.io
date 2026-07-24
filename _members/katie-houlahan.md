@@ -5,6 +5,7 @@ role: pi
 aliases:
   - Kathleen E Houlahan
   - Kathleen E. Houlahan
+  - Kathleen Houlahan
 links:
   orcid: 0000-0002-2273-2099
 ---
